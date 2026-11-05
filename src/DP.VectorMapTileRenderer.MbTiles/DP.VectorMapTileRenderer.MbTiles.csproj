@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Directory.Build.props defaults TargetFramework to net11.0; clearing it lets the outer build iterate TargetFrameworks. -->
+    <TargetFramework></TargetFramework>
+    <TargetFrameworks>net8.0;net9.0;net10.0;net11.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>DP.VectorMapTileRenderer.MbTiles</RootNamespace>
+    <AssemblyName>DP.VectorMapTileRenderer.MbTiles</AssemblyName>
+    <Description>MBTiles (SQLite) tile source for DP.VectorMapTileRenderer.</Description>
+    <PackageTags>MBTiles;SQLite;VectorTile;MapLibre</PackageTags>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DP.VectorMapTileRenderer\DP.VectorMapTileRenderer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" />
+  </ItemGroup>
+
+</Project>

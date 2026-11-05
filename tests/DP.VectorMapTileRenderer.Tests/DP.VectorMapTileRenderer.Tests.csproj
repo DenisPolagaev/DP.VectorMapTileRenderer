@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework></TargetFramework>
+    <TargetFrameworks>net8.0;net9.0;net10.0;net11.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit.v3" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Win32" />
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\DP.VectorMapTileRenderer\DP.VectorMapTileRenderer.csproj" />
+    <ProjectReference Include="..\..\src\DP.VectorMapTileRenderer.Skia\DP.VectorMapTileRenderer.Skia.csproj" />
+    <ProjectReference Include="..\..\src\DP.VectorMapTileRenderer.Pmtiles\DP.VectorMapTileRenderer.Pmtiles.csproj" />
+    <ProjectReference Include="..\..\src\DP.VectorMapTileRenderer.MbTiles\DP.VectorMapTileRenderer.MbTiles.csproj" />
+    <ProjectReference Include="..\..\src\DP.VectorMapTileRenderer.GeoJson\DP.VectorMapTileRenderer.GeoJson.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Fixtures/**/*" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

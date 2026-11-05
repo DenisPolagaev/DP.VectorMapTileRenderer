@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DP.VectorMapTileRenderer/DP.VectorMapTileRenderer.csproj" />
+    <Project Path="src/DP.VectorMapTileRenderer.Skia/DP.VectorMapTileRenderer.Skia.csproj" />
+    <Project Path="src/DP.VectorMapTileRenderer.Pmtiles/DP.VectorMapTileRenderer.Pmtiles.csproj" />
+    <Project Path="src/DP.VectorMapTileRenderer.MbTiles/DP.VectorMapTileRenderer.MbTiles.csproj" />
+    <Project Path="src/DP.VectorMapTileRenderer.GeoJson/DP.VectorMapTileRenderer.GeoJson.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DP.VectorMapTileRenderer.Tests/DP.VectorMapTileRenderer.Tests.csproj" />
+  </Folder>
+</Solution>

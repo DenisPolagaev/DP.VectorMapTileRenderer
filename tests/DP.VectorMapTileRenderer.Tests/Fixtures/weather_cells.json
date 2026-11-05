@@ -1,0 +1,14005 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       3895
+      ],
+      [
+       205,
+       3895
+      ],
+      [
+       205,
+       4096
+      ],
+      [
+       0,
+       4096
+      ],
+      [
+       0,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 12.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       3895
+      ],
+      [
+       410,
+       3895
+      ],
+      [
+       410,
+       4096
+      ],
+      [
+       204,
+       4096
+      ],
+      [
+       204,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -10.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       3895
+      ],
+      [
+       615,
+       3895
+      ],
+      [
+       615,
+       4096
+      ],
+      [
+       409,
+       4096
+      ],
+      [
+       409,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       3895
+      ],
+      [
+       820,
+       3895
+      ],
+      [
+       820,
+       4096
+      ],
+      [
+       614,
+       4096
+      ],
+      [
+       614,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       3895
+      ],
+      [
+       1024,
+       3895
+      ],
+      [
+       1024,
+       4096
+      ],
+      [
+       819,
+       4096
+      ],
+      [
+       819,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       3895
+      ],
+      [
+       1229,
+       3895
+      ],
+      [
+       1229,
+       4096
+      ],
+      [
+       1024,
+       4096
+      ],
+      [
+       1024,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.8999999761581421
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       3895
+      ],
+      [
+       1434,
+       3895
+      ],
+      [
+       1434,
+       4096
+      ],
+      [
+       1228,
+       4096
+      ],
+      [
+       1228,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -8.100000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       3895
+      ],
+      [
+       1639,
+       3895
+      ],
+      [
+       1639,
+       4096
+      ],
+      [
+       1433,
+       4096
+      ],
+      [
+       1433,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       3895
+      ],
+      [
+       1844,
+       3895
+      ],
+      [
+       1844,
+       4096
+      ],
+      [
+       1638,
+       4096
+      ],
+      [
+       1638,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.299999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       3895
+      ],
+      [
+       2048,
+       3895
+      ],
+      [
+       2048,
+       4096
+      ],
+      [
+       1843,
+       4096
+      ],
+      [
+       1843,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 18.600000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       3895
+      ],
+      [
+       2253,
+       3895
+      ],
+      [
+       2253,
+       4096
+      ],
+      [
+       2048,
+       4096
+      ],
+      [
+       2048,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       3895
+      ],
+      [
+       2458,
+       3895
+      ],
+      [
+       2458,
+       4096
+      ],
+      [
+       2252,
+       4096
+      ],
+      [
+       2252,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.20000000298023224
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       3895
+      ],
+      [
+       2663,
+       3895
+      ],
+      [
+       2663,
+       4096
+      ],
+      [
+       2457,
+       4096
+      ],
+      [
+       2457,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.6000000238418579
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       3895
+      ],
+      [
+       2868,
+       3895
+      ],
+      [
+       2868,
+       4096
+      ],
+      [
+       2662,
+       4096
+      ],
+      [
+       2662,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       3895
+      ],
+      [
+       3072,
+       3895
+      ],
+      [
+       3072,
+       4096
+      ],
+      [
+       2867,
+       4096
+      ],
+      [
+       2867,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.299999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       3895
+      ],
+      [
+       3277,
+       3895
+      ],
+      [
+       3277,
+       4096
+      ],
+      [
+       3072,
+       4096
+      ],
+      [
+       3072,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       3895
+      ],
+      [
+       3482,
+       3895
+      ],
+      [
+       3482,
+       4096
+      ],
+      [
+       3276,
+       4096
+      ],
+      [
+       3276,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       3895
+      ],
+      [
+       3687,
+       3895
+      ],
+      [
+       3687,
+       4096
+      ],
+      [
+       3481,
+       4096
+      ],
+      [
+       3481,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       3895
+      ],
+      [
+       3892,
+       3895
+      ],
+      [
+       3892,
+       4096
+      ],
+      [
+       3686,
+       4096
+      ],
+      [
+       3686,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       3895
+      ],
+      [
+       4096,
+       3895
+      ],
+      [
+       4096,
+       4096
+      ],
+      [
+       3891,
+       4096
+      ],
+      [
+       3891,
+       3895
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       3695
+      ],
+      [
+       205,
+       3695
+      ],
+      [
+       205,
+       3896
+      ],
+      [
+       0,
+       3896
+      ],
+      [
+       0,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       3695
+      ],
+      [
+       410,
+       3695
+      ],
+      [
+       410,
+       3896
+      ],
+      [
+       204,
+       3896
+      ],
+      [
+       204,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       3695
+      ],
+      [
+       615,
+       3695
+      ],
+      [
+       615,
+       3896
+      ],
+      [
+       409,
+       3896
+      ],
+      [
+       409,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       3695
+      ],
+      [
+       820,
+       3695
+      ],
+      [
+       820,
+       3896
+      ],
+      [
+       614,
+       3896
+      ],
+      [
+       614,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       3695
+      ],
+      [
+       1024,
+       3695
+      ],
+      [
+       1024,
+       3896
+      ],
+      [
+       819,
+       3896
+      ],
+      [
+       819,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.100000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       3695
+      ],
+      [
+       1229,
+       3695
+      ],
+      [
+       1229,
+       3896
+      ],
+      [
+       1024,
+       3896
+      ],
+      [
+       1024,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       3695
+      ],
+      [
+       1434,
+       3695
+      ],
+      [
+       1434,
+       3896
+      ],
+      [
+       1228,
+       3896
+      ],
+      [
+       1228,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 11.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       3695
+      ],
+      [
+       1639,
+       3695
+      ],
+      [
+       1639,
+       3896
+      ],
+      [
+       1433,
+       3896
+      ],
+      [
+       1433,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.699999988079071
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       3695
+      ],
+      [
+       1844,
+       3695
+      ],
+      [
+       1844,
+       3896
+      ],
+      [
+       1638,
+       3896
+      ],
+      [
+       1638,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       3695
+      ],
+      [
+       2048,
+       3695
+      ],
+      [
+       2048,
+       3896
+      ],
+      [
+       1843,
+       3896
+      ],
+      [
+       1843,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       3695
+      ],
+      [
+       2253,
+       3695
+      ],
+      [
+       2253,
+       3896
+      ],
+      [
+       2048,
+       3896
+      ],
+      [
+       2048,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       3695
+      ],
+      [
+       2458,
+       3695
+      ],
+      [
+       2458,
+       3896
+      ],
+      [
+       2252,
+       3896
+      ],
+      [
+       2252,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       3695
+      ],
+      [
+       2663,
+       3695
+      ],
+      [
+       2663,
+       3896
+      ],
+      [
+       2457,
+       3896
+      ],
+      [
+       2457,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       3695
+      ],
+      [
+       2868,
+       3695
+      ],
+      [
+       2868,
+       3896
+      ],
+      [
+       2662,
+       3896
+      ],
+      [
+       2662,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       3695
+      ],
+      [
+       3072,
+       3695
+      ],
+      [
+       3072,
+       3896
+      ],
+      [
+       2867,
+       3896
+      ],
+      [
+       2867,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       3695
+      ],
+      [
+       3277,
+       3695
+      ],
+      [
+       3277,
+       3896
+      ],
+      [
+       3072,
+       3896
+      ],
+      [
+       3072,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       3695
+      ],
+      [
+       3482,
+       3695
+      ],
+      [
+       3482,
+       3896
+      ],
+      [
+       3276,
+       3896
+      ],
+      [
+       3276,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -12.100000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       3695
+      ],
+      [
+       3687,
+       3695
+      ],
+      [
+       3687,
+       3896
+      ],
+      [
+       3481,
+       3896
+      ],
+      [
+       3481,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       3695
+      ],
+      [
+       3892,
+       3695
+      ],
+      [
+       3892,
+       3896
+      ],
+      [
+       3686,
+       3896
+      ],
+      [
+       3686,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       3695
+      ],
+      [
+       4096,
+       3695
+      ],
+      [
+       4096,
+       3896
+      ],
+      [
+       3891,
+       3896
+      ],
+      [
+       3891,
+       3695
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       3494
+      ],
+      [
+       205,
+       3494
+      ],
+      [
+       205,
+       3696
+      ],
+      [
+       0,
+       3696
+      ],
+      [
+       0,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       3494
+      ],
+      [
+       410,
+       3494
+      ],
+      [
+       410,
+       3696
+      ],
+      [
+       204,
+       3696
+      ],
+      [
+       204,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       3494
+      ],
+      [
+       615,
+       3494
+      ],
+      [
+       615,
+       3696
+      ],
+      [
+       409,
+       3696
+      ],
+      [
+       409,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.20000000298023224
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       3494
+      ],
+      [
+       820,
+       3494
+      ],
+      [
+       820,
+       3696
+      ],
+      [
+       614,
+       3696
+      ],
+      [
+       614,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       3494
+      ],
+      [
+       1024,
+       3494
+      ],
+      [
+       1024,
+       3696
+      ],
+      [
+       819,
+       3696
+      ],
+      [
+       819,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       3494
+      ],
+      [
+       1229,
+       3494
+      ],
+      [
+       1229,
+       3696
+      ],
+      [
+       1024,
+       3696
+      ],
+      [
+       1024,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.7000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       3494
+      ],
+      [
+       1434,
+       3494
+      ],
+      [
+       1434,
+       3696
+      ],
+      [
+       1228,
+       3696
+      ],
+      [
+       1228,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       3494
+      ],
+      [
+       1639,
+       3494
+      ],
+      [
+       1639,
+       3696
+      ],
+      [
+       1433,
+       3696
+      ],
+      [
+       1433,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       3494
+      ],
+      [
+       1844,
+       3494
+      ],
+      [
+       1844,
+       3696
+      ],
+      [
+       1638,
+       3696
+      ],
+      [
+       1638,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       3494
+      ],
+      [
+       2048,
+       3494
+      ],
+      [
+       2048,
+       3696
+      ],
+      [
+       1843,
+       3696
+      ],
+      [
+       1843,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       3494
+      ],
+      [
+       2253,
+       3494
+      ],
+      [
+       2253,
+       3696
+      ],
+      [
+       2048,
+       3696
+      ],
+      [
+       2048,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       3494
+      ],
+      [
+       2458,
+       3494
+      ],
+      [
+       2458,
+       3696
+      ],
+      [
+       2252,
+       3696
+      ],
+      [
+       2252,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       3494
+      ],
+      [
+       2663,
+       3494
+      ],
+      [
+       2663,
+       3696
+      ],
+      [
+       2457,
+       3696
+      ],
+      [
+       2457,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       3494
+      ],
+      [
+       2868,
+       3494
+      ],
+      [
+       2868,
+       3696
+      ],
+      [
+       2662,
+       3696
+      ],
+      [
+       2662,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       3494
+      ],
+      [
+       3072,
+       3494
+      ],
+      [
+       3072,
+       3696
+      ],
+      [
+       2867,
+       3696
+      ],
+      [
+       2867,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.8999999761581421
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       3494
+      ],
+      [
+       3277,
+       3494
+      ],
+      [
+       3277,
+       3696
+      ],
+      [
+       3072,
+       3696
+      ],
+      [
+       3072,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       3494
+      ],
+      [
+       3482,
+       3494
+      ],
+      [
+       3482,
+       3696
+      ],
+      [
+       3276,
+       3696
+      ],
+      [
+       3276,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       3494
+      ],
+      [
+       3687,
+       3494
+      ],
+      [
+       3687,
+       3696
+      ],
+      [
+       3481,
+       3696
+      ],
+      [
+       3481,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -10.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       3494
+      ],
+      [
+       3892,
+       3494
+      ],
+      [
+       3892,
+       3696
+      ],
+      [
+       3686,
+       3696
+      ],
+      [
+       3686,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       3494
+      ],
+      [
+       4096,
+       3494
+      ],
+      [
+       4096,
+       3696
+      ],
+      [
+       3891,
+       3696
+      ],
+      [
+       3891,
+       3494
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       3292
+      ],
+      [
+       205,
+       3292
+      ],
+      [
+       205,
+       3495
+      ],
+      [
+       0,
+       3495
+      ],
+      [
+       0,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       3292
+      ],
+      [
+       410,
+       3292
+      ],
+      [
+       410,
+       3495
+      ],
+      [
+       204,
+       3495
+      ],
+      [
+       204,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.299999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       3292
+      ],
+      [
+       615,
+       3292
+      ],
+      [
+       615,
+       3495
+      ],
+      [
+       409,
+       3495
+      ],
+      [
+       409,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       3292
+      ],
+      [
+       820,
+       3292
+      ],
+      [
+       820,
+       3495
+      ],
+      [
+       614,
+       3495
+      ],
+      [
+       614,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       3292
+      ],
+      [
+       1024,
+       3292
+      ],
+      [
+       1024,
+       3495
+      ],
+      [
+       819,
+       3495
+      ],
+      [
+       819,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -8.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       3292
+      ],
+      [
+       1229,
+       3292
+      ],
+      [
+       1229,
+       3495
+      ],
+      [
+       1024,
+       3495
+      ],
+      [
+       1024,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       3292
+      ],
+      [
+       1434,
+       3292
+      ],
+      [
+       1434,
+       3495
+      ],
+      [
+       1228,
+       3495
+      ],
+      [
+       1228,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       3292
+      ],
+      [
+       1639,
+       3292
+      ],
+      [
+       1639,
+       3495
+      ],
+      [
+       1433,
+       3495
+      ],
+      [
+       1433,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       3292
+      ],
+      [
+       1844,
+       3292
+      ],
+      [
+       1844,
+       3495
+      ],
+      [
+       1638,
+       3495
+      ],
+      [
+       1638,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -8.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       3292
+      ],
+      [
+       2048,
+       3292
+      ],
+      [
+       2048,
+       3495
+      ],
+      [
+       1843,
+       3495
+      ],
+      [
+       1843,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       3292
+      ],
+      [
+       2253,
+       3292
+      ],
+      [
+       2253,
+       3495
+      ],
+      [
+       2048,
+       3495
+      ],
+      [
+       2048,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       3292
+      ],
+      [
+       2458,
+       3292
+      ],
+      [
+       2458,
+       3495
+      ],
+      [
+       2252,
+       3495
+      ],
+      [
+       2252,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       3292
+      ],
+      [
+       2663,
+       3292
+      ],
+      [
+       2663,
+       3495
+      ],
+      [
+       2457,
+       3495
+      ],
+      [
+       2457,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       3292
+      ],
+      [
+       2868,
+       3292
+      ],
+      [
+       2868,
+       3495
+      ],
+      [
+       2662,
+       3495
+      ],
+      [
+       2662,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       3292
+      ],
+      [
+       3072,
+       3292
+      ],
+      [
+       3072,
+       3495
+      ],
+      [
+       2867,
+       3495
+      ],
+      [
+       2867,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       3292
+      ],
+      [
+       3277,
+       3292
+      ],
+      [
+       3277,
+       3495
+      ],
+      [
+       3072,
+       3495
+      ],
+      [
+       3072,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       3292
+      ],
+      [
+       3482,
+       3292
+      ],
+      [
+       3482,
+       3495
+      ],
+      [
+       3276,
+       3495
+      ],
+      [
+       3276,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       3292
+      ],
+      [
+       3687,
+       3292
+      ],
+      [
+       3687,
+       3495
+      ],
+      [
+       3481,
+       3495
+      ],
+      [
+       3481,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       3292
+      ],
+      [
+       3892,
+       3292
+      ],
+      [
+       3892,
+       3495
+      ],
+      [
+       3686,
+       3495
+      ],
+      [
+       3686,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.10000000149011612
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       3292
+      ],
+      [
+       4096,
+       3292
+      ],
+      [
+       4096,
+       3495
+      ],
+      [
+       3891,
+       3495
+      ],
+      [
+       3891,
+       3292
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       3090
+      ],
+      [
+       205,
+       3090
+      ],
+      [
+       205,
+       3293
+      ],
+      [
+       0,
+       3293
+      ],
+      [
+       0,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.399999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       3090
+      ],
+      [
+       410,
+       3090
+      ],
+      [
+       410,
+       3293
+      ],
+      [
+       204,
+       3293
+      ],
+      [
+       204,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       3090
+      ],
+      [
+       615,
+       3090
+      ],
+      [
+       615,
+       3293
+      ],
+      [
+       409,
+       3293
+      ],
+      [
+       409,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       3090
+      ],
+      [
+       820,
+       3090
+      ],
+      [
+       820,
+       3293
+      ],
+      [
+       614,
+       3293
+      ],
+      [
+       614,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       3090
+      ],
+      [
+       1024,
+       3090
+      ],
+      [
+       1024,
+       3293
+      ],
+      [
+       819,
+       3293
+      ],
+      [
+       819,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       3090
+      ],
+      [
+       1229,
+       3090
+      ],
+      [
+       1229,
+       3293
+      ],
+      [
+       1024,
+       3293
+      ],
+      [
+       1024,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       3090
+      ],
+      [
+       1434,
+       3090
+      ],
+      [
+       1434,
+       3293
+      ],
+      [
+       1228,
+       3293
+      ],
+      [
+       1228,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       3090
+      ],
+      [
+       1639,
+       3090
+      ],
+      [
+       1639,
+       3293
+      ],
+      [
+       1433,
+       3293
+      ],
+      [
+       1433,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       3090
+      ],
+      [
+       1844,
+       3090
+      ],
+      [
+       1844,
+       3293
+      ],
+      [
+       1638,
+       3293
+      ],
+      [
+       1638,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.899999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       3090
+      ],
+      [
+       2048,
+       3090
+      ],
+      [
+       2048,
+       3293
+      ],
+      [
+       1843,
+       3293
+      ],
+      [
+       1843,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -5.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       3090
+      ],
+      [
+       2253,
+       3090
+      ],
+      [
+       2253,
+       3293
+      ],
+      [
+       2048,
+       3293
+      ],
+      [
+       2048,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       3090
+      ],
+      [
+       2458,
+       3090
+      ],
+      [
+       2458,
+       3293
+      ],
+      [
+       2252,
+       3293
+      ],
+      [
+       2252,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       3090
+      ],
+      [
+       2663,
+       3090
+      ],
+      [
+       2663,
+       3293
+      ],
+      [
+       2457,
+       3293
+      ],
+      [
+       2457,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       3090
+      ],
+      [
+       2868,
+       3090
+      ],
+      [
+       2868,
+       3293
+      ],
+      [
+       2662,
+       3293
+      ],
+      [
+       2662,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       3090
+      ],
+      [
+       3072,
+       3090
+      ],
+      [
+       3072,
+       3293
+      ],
+      [
+       2867,
+       3293
+      ],
+      [
+       2867,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       3090
+      ],
+      [
+       3277,
+       3090
+      ],
+      [
+       3277,
+       3293
+      ],
+      [
+       3072,
+       3293
+      ],
+      [
+       3072,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       3090
+      ],
+      [
+       3482,
+       3090
+      ],
+      [
+       3482,
+       3293
+      ],
+      [
+       3276,
+       3293
+      ],
+      [
+       3276,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       3090
+      ],
+      [
+       3687,
+       3090
+      ],
+      [
+       3687,
+       3293
+      ],
+      [
+       3481,
+       3293
+      ],
+      [
+       3481,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.100000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       3090
+      ],
+      [
+       3892,
+       3090
+      ],
+      [
+       3892,
+       3293
+      ],
+      [
+       3686,
+       3293
+      ],
+      [
+       3686,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       3090
+      ],
+      [
+       4096,
+       3090
+      ],
+      [
+       4096,
+       3293
+      ],
+      [
+       3891,
+       3293
+      ],
+      [
+       3891,
+       3090
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       2888
+      ],
+      [
+       205,
+       2888
+      ],
+      [
+       205,
+       3091
+      ],
+      [
+       0,
+       3091
+      ],
+      [
+       0,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       2888
+      ],
+      [
+       410,
+       2888
+      ],
+      [
+       410,
+       3091
+      ],
+      [
+       204,
+       3091
+      ],
+      [
+       204,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       2888
+      ],
+      [
+       615,
+       2888
+      ],
+      [
+       615,
+       3091
+      ],
+      [
+       409,
+       3091
+      ],
+      [
+       409,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       2888
+      ],
+      [
+       820,
+       2888
+      ],
+      [
+       820,
+       3091
+      ],
+      [
+       614,
+       3091
+      ],
+      [
+       614,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       2888
+      ],
+      [
+       1024,
+       2888
+      ],
+      [
+       1024,
+       3091
+      ],
+      [
+       819,
+       3091
+      ],
+      [
+       819,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       2888
+      ],
+      [
+       1229,
+       2888
+      ],
+      [
+       1229,
+       3091
+      ],
+      [
+       1024,
+       3091
+      ],
+      [
+       1024,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       2888
+      ],
+      [
+       1434,
+       2888
+      ],
+      [
+       1434,
+       3091
+      ],
+      [
+       1228,
+       3091
+      ],
+      [
+       1228,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       2888
+      ],
+      [
+       1639,
+       2888
+      ],
+      [
+       1639,
+       3091
+      ],
+      [
+       1433,
+       3091
+      ],
+      [
+       1433,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       2888
+      ],
+      [
+       1844,
+       2888
+      ],
+      [
+       1844,
+       3091
+      ],
+      [
+       1638,
+       3091
+      ],
+      [
+       1638,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       2888
+      ],
+      [
+       2048,
+       2888
+      ],
+      [
+       2048,
+       3091
+      ],
+      [
+       1843,
+       3091
+      ],
+      [
+       1843,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 14.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       2888
+      ],
+      [
+       2253,
+       2888
+      ],
+      [
+       2253,
+       3091
+      ],
+      [
+       2048,
+       3091
+      ],
+      [
+       2048,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       2888
+      ],
+      [
+       2458,
+       2888
+      ],
+      [
+       2458,
+       3091
+      ],
+      [
+       2252,
+       3091
+      ],
+      [
+       2252,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       2888
+      ],
+      [
+       2663,
+       2888
+      ],
+      [
+       2663,
+       3091
+      ],
+      [
+       2457,
+       3091
+      ],
+      [
+       2457,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -8.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       2888
+      ],
+      [
+       2868,
+       2888
+      ],
+      [
+       2868,
+       3091
+      ],
+      [
+       2662,
+       3091
+      ],
+      [
+       2662,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       2888
+      ],
+      [
+       3072,
+       2888
+      ],
+      [
+       3072,
+       3091
+      ],
+      [
+       2867,
+       3091
+      ],
+      [
+       2867,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       2888
+      ],
+      [
+       3277,
+       2888
+      ],
+      [
+       3277,
+       3091
+      ],
+      [
+       3072,
+       3091
+      ],
+      [
+       3072,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       2888
+      ],
+      [
+       3482,
+       2888
+      ],
+      [
+       3482,
+       3091
+      ],
+      [
+       3276,
+       3091
+      ],
+      [
+       3276,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -9.399999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       2888
+      ],
+      [
+       3687,
+       2888
+      ],
+      [
+       3687,
+       3091
+      ],
+      [
+       3481,
+       3091
+      ],
+      [
+       3481,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       2888
+      ],
+      [
+       3892,
+       2888
+      ],
+      [
+       3892,
+       3091
+      ],
+      [
+       3686,
+       3091
+      ],
+      [
+       3686,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       2888
+      ],
+      [
+       4096,
+       2888
+      ],
+      [
+       4096,
+       3091
+      ],
+      [
+       3891,
+       3091
+      ],
+      [
+       3891,
+       2888
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       2685
+      ],
+      [
+       205,
+       2685
+      ],
+      [
+       205,
+       2889
+      ],
+      [
+       0,
+       2889
+      ],
+      [
+       0,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       2685
+      ],
+      [
+       410,
+       2685
+      ],
+      [
+       410,
+       2889
+      ],
+      [
+       204,
+       2889
+      ],
+      [
+       204,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       2685
+      ],
+      [
+       615,
+       2685
+      ],
+      [
+       615,
+       2889
+      ],
+      [
+       409,
+       2889
+      ],
+      [
+       409,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       2685
+      ],
+      [
+       820,
+       2685
+      ],
+      [
+       820,
+       2889
+      ],
+      [
+       614,
+       2889
+      ],
+      [
+       614,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       2685
+      ],
+      [
+       1024,
+       2685
+      ],
+      [
+       1024,
+       2889
+      ],
+      [
+       819,
+       2889
+      ],
+      [
+       819,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 12.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       2685
+      ],
+      [
+       1229,
+       2685
+      ],
+      [
+       1229,
+       2889
+      ],
+      [
+       1024,
+       2889
+      ],
+      [
+       1024,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       2685
+      ],
+      [
+       1434,
+       2685
+      ],
+      [
+       1434,
+       2889
+      ],
+      [
+       1228,
+       2889
+      ],
+      [
+       1228,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       2685
+      ],
+      [
+       1639,
+       2685
+      ],
+      [
+       1639,
+       2889
+      ],
+      [
+       1433,
+       2889
+      ],
+      [
+       1433,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       2685
+      ],
+      [
+       1844,
+       2685
+      ],
+      [
+       1844,
+       2889
+      ],
+      [
+       1638,
+       2889
+      ],
+      [
+       1638,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       2685
+      ],
+      [
+       2048,
+       2685
+      ],
+      [
+       2048,
+       2889
+      ],
+      [
+       1843,
+       2889
+      ],
+      [
+       1843,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       2685
+      ],
+      [
+       2253,
+       2685
+      ],
+      [
+       2253,
+       2889
+      ],
+      [
+       2048,
+       2889
+      ],
+      [
+       2048,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       2685
+      ],
+      [
+       2458,
+       2685
+      ],
+      [
+       2458,
+       2889
+      ],
+      [
+       2252,
+       2889
+      ],
+      [
+       2252,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       2685
+      ],
+      [
+       2663,
+       2685
+      ],
+      [
+       2663,
+       2889
+      ],
+      [
+       2457,
+       2889
+      ],
+      [
+       2457,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       2685
+      ],
+      [
+       2868,
+       2685
+      ],
+      [
+       2868,
+       2889
+      ],
+      [
+       2662,
+       2889
+      ],
+      [
+       2662,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       2685
+      ],
+      [
+       3072,
+       2685
+      ],
+      [
+       3072,
+       2889
+      ],
+      [
+       2867,
+       2889
+      ],
+      [
+       2867,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       2685
+      ],
+      [
+       3277,
+       2685
+      ],
+      [
+       3277,
+       2889
+      ],
+      [
+       3072,
+       2889
+      ],
+      [
+       3072,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       2685
+      ],
+      [
+       3482,
+       2685
+      ],
+      [
+       3482,
+       2889
+      ],
+      [
+       3276,
+       2889
+      ],
+      [
+       3276,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       2685
+      ],
+      [
+       3687,
+       2685
+      ],
+      [
+       3687,
+       2889
+      ],
+      [
+       3481,
+       2889
+      ],
+      [
+       3481,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       2685
+      ],
+      [
+       3892,
+       2685
+      ],
+      [
+       3892,
+       2889
+      ],
+      [
+       3686,
+       2889
+      ],
+      [
+       3686,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       2685
+      ],
+      [
+       4096,
+       2685
+      ],
+      [
+       4096,
+       2889
+      ],
+      [
+       3891,
+       2889
+      ],
+      [
+       3891,
+       2685
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       2482
+      ],
+      [
+       205,
+       2482
+      ],
+      [
+       205,
+       2686
+      ],
+      [
+       0,
+       2686
+      ],
+      [
+       0,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       2482
+      ],
+      [
+       410,
+       2482
+      ],
+      [
+       410,
+       2686
+      ],
+      [
+       204,
+       2686
+      ],
+      [
+       204,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       2482
+      ],
+      [
+       615,
+       2482
+      ],
+      [
+       615,
+       2686
+      ],
+      [
+       409,
+       2686
+      ],
+      [
+       409,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 14.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       2482
+      ],
+      [
+       820,
+       2482
+      ],
+      [
+       820,
+       2686
+      ],
+      [
+       614,
+       2686
+      ],
+      [
+       614,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       2482
+      ],
+      [
+       1024,
+       2482
+      ],
+      [
+       1024,
+       2686
+      ],
+      [
+       819,
+       2686
+      ],
+      [
+       819,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       2482
+      ],
+      [
+       1229,
+       2482
+      ],
+      [
+       1229,
+       2686
+      ],
+      [
+       1024,
+       2686
+      ],
+      [
+       1024,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       2482
+      ],
+      [
+       1434,
+       2482
+      ],
+      [
+       1434,
+       2686
+      ],
+      [
+       1228,
+       2686
+      ],
+      [
+       1228,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       2482
+      ],
+      [
+       1639,
+       2482
+      ],
+      [
+       1639,
+       2686
+      ],
+      [
+       1433,
+       2686
+      ],
+      [
+       1433,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       2482
+      ],
+      [
+       1844,
+       2482
+      ],
+      [
+       1844,
+       2686
+      ],
+      [
+       1638,
+       2686
+      ],
+      [
+       1638,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       2482
+      ],
+      [
+       2048,
+       2482
+      ],
+      [
+       2048,
+       2686
+      ],
+      [
+       1843,
+       2686
+      ],
+      [
+       1843,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       2482
+      ],
+      [
+       2253,
+       2482
+      ],
+      [
+       2253,
+       2686
+      ],
+      [
+       2048,
+       2686
+      ],
+      [
+       2048,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       2482
+      ],
+      [
+       2458,
+       2482
+      ],
+      [
+       2458,
+       2686
+      ],
+      [
+       2252,
+       2686
+      ],
+      [
+       2252,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       2482
+      ],
+      [
+       2663,
+       2482
+      ],
+      [
+       2663,
+       2686
+      ],
+      [
+       2457,
+       2686
+      ],
+      [
+       2457,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       2482
+      ],
+      [
+       2868,
+       2482
+      ],
+      [
+       2868,
+       2686
+      ],
+      [
+       2662,
+       2686
+      ],
+      [
+       2662,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -5.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       2482
+      ],
+      [
+       3072,
+       2482
+      ],
+      [
+       3072,
+       2686
+      ],
+      [
+       2867,
+       2686
+      ],
+      [
+       2867,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       2482
+      ],
+      [
+       3277,
+       2482
+      ],
+      [
+       3277,
+       2686
+      ],
+      [
+       3072,
+       2686
+      ],
+      [
+       3072,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       2482
+      ],
+      [
+       3482,
+       2482
+      ],
+      [
+       3482,
+       2686
+      ],
+      [
+       3276,
+       2686
+      ],
+      [
+       3276,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       2482
+      ],
+      [
+       3687,
+       2482
+      ],
+      [
+       3687,
+       2686
+      ],
+      [
+       3481,
+       2686
+      ],
+      [
+       3481,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       2482
+      ],
+      [
+       3892,
+       2482
+      ],
+      [
+       3892,
+       2686
+      ],
+      [
+       3686,
+       2686
+      ],
+      [
+       3686,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       2482
+      ],
+      [
+       4096,
+       2482
+      ],
+      [
+       4096,
+       2686
+      ],
+      [
+       3891,
+       2686
+      ],
+      [
+       3891,
+       2482
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       2278
+      ],
+      [
+       205,
+       2278
+      ],
+      [
+       205,
+       2483
+      ],
+      [
+       0,
+       2483
+      ],
+      [
+       0,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       2278
+      ],
+      [
+       410,
+       2278
+      ],
+      [
+       410,
+       2483
+      ],
+      [
+       204,
+       2483
+      ],
+      [
+       204,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       2278
+      ],
+      [
+       615,
+       2278
+      ],
+      [
+       615,
+       2483
+      ],
+      [
+       409,
+       2483
+      ],
+      [
+       409,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       2278
+      ],
+      [
+       820,
+       2278
+      ],
+      [
+       820,
+       2483
+      ],
+      [
+       614,
+       2483
+      ],
+      [
+       614,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       2278
+      ],
+      [
+       1024,
+       2278
+      ],
+      [
+       1024,
+       2483
+      ],
+      [
+       819,
+       2483
+      ],
+      [
+       819,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       2278
+      ],
+      [
+       1229,
+       2278
+      ],
+      [
+       1229,
+       2483
+      ],
+      [
+       1024,
+       2483
+      ],
+      [
+       1024,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       2278
+      ],
+      [
+       1434,
+       2278
+      ],
+      [
+       1434,
+       2483
+      ],
+      [
+       1228,
+       2483
+      ],
+      [
+       1228,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -8.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       2278
+      ],
+      [
+       1639,
+       2278
+      ],
+      [
+       1639,
+       2483
+      ],
+      [
+       1433,
+       2483
+      ],
+      [
+       1433,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       2278
+      ],
+      [
+       1844,
+       2278
+      ],
+      [
+       1844,
+       2483
+      ],
+      [
+       1638,
+       2483
+      ],
+      [
+       1638,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       2278
+      ],
+      [
+       2048,
+       2278
+      ],
+      [
+       2048,
+       2483
+      ],
+      [
+       1843,
+       2483
+      ],
+      [
+       1843,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       2278
+      ],
+      [
+       2253,
+       2278
+      ],
+      [
+       2253,
+       2483
+      ],
+      [
+       2048,
+       2483
+      ],
+      [
+       2048,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       2278
+      ],
+      [
+       2458,
+       2278
+      ],
+      [
+       2458,
+       2483
+      ],
+      [
+       2252,
+       2483
+      ],
+      [
+       2252,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       2278
+      ],
+      [
+       2663,
+       2278
+      ],
+      [
+       2663,
+       2483
+      ],
+      [
+       2457,
+       2483
+      ],
+      [
+       2457,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       2278
+      ],
+      [
+       2868,
+       2278
+      ],
+      [
+       2868,
+       2483
+      ],
+      [
+       2662,
+       2483
+      ],
+      [
+       2662,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       2278
+      ],
+      [
+       3072,
+       2278
+      ],
+      [
+       3072,
+       2483
+      ],
+      [
+       2867,
+       2483
+      ],
+      [
+       2867,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       2278
+      ],
+      [
+       3277,
+       2278
+      ],
+      [
+       3277,
+       2483
+      ],
+      [
+       3072,
+       2483
+      ],
+      [
+       3072,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.6000000238418579
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       2278
+      ],
+      [
+       3482,
+       2278
+      ],
+      [
+       3482,
+       2483
+      ],
+      [
+       3276,
+       2483
+      ],
+      [
+       3276,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       2278
+      ],
+      [
+       3687,
+       2278
+      ],
+      [
+       3687,
+       2483
+      ],
+      [
+       3481,
+       2483
+      ],
+      [
+       3481,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       2278
+      ],
+      [
+       3892,
+       2278
+      ],
+      [
+       3892,
+       2483
+      ],
+      [
+       3686,
+       2483
+      ],
+      [
+       3686,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       2278
+      ],
+      [
+       4096,
+       2278
+      ],
+      [
+       4096,
+       2483
+      ],
+      [
+       3891,
+       2483
+      ],
+      [
+       3891,
+       2278
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 12.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       2073
+      ],
+      [
+       205,
+       2073
+      ],
+      [
+       205,
+       2279
+      ],
+      [
+       0,
+       2279
+      ],
+      [
+       0,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       2073
+      ],
+      [
+       410,
+       2073
+      ],
+      [
+       410,
+       2279
+      ],
+      [
+       204,
+       2279
+      ],
+      [
+       204,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 12.899999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       2073
+      ],
+      [
+       615,
+       2073
+      ],
+      [
+       615,
+       2279
+      ],
+      [
+       409,
+       2279
+      ],
+      [
+       409,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       2073
+      ],
+      [
+       820,
+       2073
+      ],
+      [
+       820,
+       2279
+      ],
+      [
+       614,
+       2279
+      ],
+      [
+       614,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.10000000149011612
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       2073
+      ],
+      [
+       1024,
+       2073
+      ],
+      [
+       1024,
+       2279
+      ],
+      [
+       819,
+       2279
+      ],
+      [
+       819,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       2073
+      ],
+      [
+       1229,
+       2073
+      ],
+      [
+       1229,
+       2279
+      ],
+      [
+       1024,
+       2279
+      ],
+      [
+       1024,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       2073
+      ],
+      [
+       1434,
+       2073
+      ],
+      [
+       1434,
+       2279
+      ],
+      [
+       1228,
+       2279
+      ],
+      [
+       1228,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.8999999761581421
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       2073
+      ],
+      [
+       1639,
+       2073
+      ],
+      [
+       1639,
+       2279
+      ],
+      [
+       1433,
+       2279
+      ],
+      [
+       1433,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       2073
+      ],
+      [
+       1844,
+       2073
+      ],
+      [
+       1844,
+       2279
+      ],
+      [
+       1638,
+       2279
+      ],
+      [
+       1638,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       2073
+      ],
+      [
+       2048,
+       2073
+      ],
+      [
+       2048,
+       2279
+      ],
+      [
+       1843,
+       2279
+      ],
+      [
+       1843,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.100000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       2073
+      ],
+      [
+       2253,
+       2073
+      ],
+      [
+       2253,
+       2279
+      ],
+      [
+       2048,
+       2279
+      ],
+      [
+       2048,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       2073
+      ],
+      [
+       2458,
+       2073
+      ],
+      [
+       2458,
+       2279
+      ],
+      [
+       2252,
+       2279
+      ],
+      [
+       2252,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       2073
+      ],
+      [
+       2663,
+       2073
+      ],
+      [
+       2663,
+       2279
+      ],
+      [
+       2457,
+       2279
+      ],
+      [
+       2457,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       2073
+      ],
+      [
+       2868,
+       2073
+      ],
+      [
+       2868,
+       2279
+      ],
+      [
+       2662,
+       2279
+      ],
+      [
+       2662,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       2073
+      ],
+      [
+       3072,
+       2073
+      ],
+      [
+       3072,
+       2279
+      ],
+      [
+       2867,
+       2279
+      ],
+      [
+       2867,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.600000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       2073
+      ],
+      [
+       3277,
+       2073
+      ],
+      [
+       3277,
+       2279
+      ],
+      [
+       3072,
+       2279
+      ],
+      [
+       3072,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       2073
+      ],
+      [
+       3482,
+       2073
+      ],
+      [
+       3482,
+       2279
+      ],
+      [
+       3276,
+       2279
+      ],
+      [
+       3276,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       2073
+      ],
+      [
+       3687,
+       2073
+      ],
+      [
+       3687,
+       2279
+      ],
+      [
+       3481,
+       2279
+      ],
+      [
+       3481,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       2073
+      ],
+      [
+       3892,
+       2073
+      ],
+      [
+       3892,
+       2279
+      ],
+      [
+       3686,
+       2279
+      ],
+      [
+       3686,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       2073
+      ],
+      [
+       4096,
+       2073
+      ],
+      [
+       4096,
+       2279
+      ],
+      [
+       3891,
+       2279
+      ],
+      [
+       3891,
+       2073
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       1868
+      ],
+      [
+       205,
+       1868
+      ],
+      [
+       205,
+       2074
+      ],
+      [
+       0,
+       2074
+      ],
+      [
+       0,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       1868
+      ],
+      [
+       410,
+       1868
+      ],
+      [
+       410,
+       2074
+      ],
+      [
+       204,
+       2074
+      ],
+      [
+       204,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       1868
+      ],
+      [
+       615,
+       1868
+      ],
+      [
+       615,
+       2074
+      ],
+      [
+       409,
+       2074
+      ],
+      [
+       409,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       1868
+      ],
+      [
+       820,
+       1868
+      ],
+      [
+       820,
+       2074
+      ],
+      [
+       614,
+       2074
+      ],
+      [
+       614,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.6000000238418579
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       1868
+      ],
+      [
+       1024,
+       1868
+      ],
+      [
+       1024,
+       2074
+      ],
+      [
+       819,
+       2074
+      ],
+      [
+       819,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       1868
+      ],
+      [
+       1229,
+       1868
+      ],
+      [
+       1229,
+       2074
+      ],
+      [
+       1024,
+       2074
+      ],
+      [
+       1024,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       1868
+      ],
+      [
+       1434,
+       1868
+      ],
+      [
+       1434,
+       2074
+      ],
+      [
+       1228,
+       2074
+      ],
+      [
+       1228,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       1868
+      ],
+      [
+       1639,
+       1868
+      ],
+      [
+       1639,
+       2074
+      ],
+      [
+       1433,
+       2074
+      ],
+      [
+       1433,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       1868
+      ],
+      [
+       1844,
+       1868
+      ],
+      [
+       1844,
+       2074
+      ],
+      [
+       1638,
+       2074
+      ],
+      [
+       1638,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       1868
+      ],
+      [
+       2048,
+       1868
+      ],
+      [
+       2048,
+       2074
+      ],
+      [
+       1843,
+       2074
+      ],
+      [
+       1843,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       1868
+      ],
+      [
+       2253,
+       1868
+      ],
+      [
+       2253,
+       2074
+      ],
+      [
+       2048,
+       2074
+      ],
+      [
+       2048,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.7000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       1868
+      ],
+      [
+       2458,
+       1868
+      ],
+      [
+       2458,
+       2074
+      ],
+      [
+       2252,
+       2074
+      ],
+      [
+       2252,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       1868
+      ],
+      [
+       2663,
+       1868
+      ],
+      [
+       2663,
+       2074
+      ],
+      [
+       2457,
+       2074
+      ],
+      [
+       2457,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       1868
+      ],
+      [
+       2868,
+       1868
+      ],
+      [
+       2868,
+       2074
+      ],
+      [
+       2662,
+       2074
+      ],
+      [
+       2662,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       1868
+      ],
+      [
+       3072,
+       1868
+      ],
+      [
+       3072,
+       2074
+      ],
+      [
+       2867,
+       2074
+      ],
+      [
+       2867,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.100000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       1868
+      ],
+      [
+       3277,
+       1868
+      ],
+      [
+       3277,
+       2074
+      ],
+      [
+       3072,
+       2074
+      ],
+      [
+       3072,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       1868
+      ],
+      [
+       3482,
+       1868
+      ],
+      [
+       3482,
+       2074
+      ],
+      [
+       3276,
+       2074
+      ],
+      [
+       3276,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       1868
+      ],
+      [
+       3687,
+       1868
+      ],
+      [
+       3687,
+       2074
+      ],
+      [
+       3481,
+       2074
+      ],
+      [
+       3481,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.100000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       1868
+      ],
+      [
+       3892,
+       1868
+      ],
+      [
+       3892,
+       2074
+      ],
+      [
+       3686,
+       2074
+      ],
+      [
+       3686,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       1868
+      ],
+      [
+       4096,
+       1868
+      ],
+      [
+       4096,
+       2074
+      ],
+      [
+       3891,
+       2074
+      ],
+      [
+       3891,
+       1868
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.100000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       1663
+      ],
+      [
+       205,
+       1663
+      ],
+      [
+       205,
+       1869
+      ],
+      [
+       0,
+       1869
+      ],
+      [
+       0,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -8.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       1663
+      ],
+      [
+       410,
+       1663
+      ],
+      [
+       410,
+       1869
+      ],
+      [
+       204,
+       1869
+      ],
+      [
+       204,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       1663
+      ],
+      [
+       615,
+       1663
+      ],
+      [
+       615,
+       1869
+      ],
+      [
+       409,
+       1869
+      ],
+      [
+       409,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       1663
+      ],
+      [
+       820,
+       1663
+      ],
+      [
+       820,
+       1869
+      ],
+      [
+       614,
+       1869
+      ],
+      [
+       614,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       1663
+      ],
+      [
+       1024,
+       1663
+      ],
+      [
+       1024,
+       1869
+      ],
+      [
+       819,
+       1869
+      ],
+      [
+       819,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       1663
+      ],
+      [
+       1229,
+       1663
+      ],
+      [
+       1229,
+       1869
+      ],
+      [
+       1024,
+       1869
+      ],
+      [
+       1024,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -7.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       1663
+      ],
+      [
+       1434,
+       1663
+      ],
+      [
+       1434,
+       1869
+      ],
+      [
+       1228,
+       1869
+      ],
+      [
+       1228,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       1663
+      ],
+      [
+       1639,
+       1663
+      ],
+      [
+       1639,
+       1869
+      ],
+      [
+       1433,
+       1869
+      ],
+      [
+       1433,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       1663
+      ],
+      [
+       1844,
+       1663
+      ],
+      [
+       1844,
+       1869
+      ],
+      [
+       1638,
+       1869
+      ],
+      [
+       1638,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       1663
+      ],
+      [
+       2048,
+       1663
+      ],
+      [
+       2048,
+       1869
+      ],
+      [
+       1843,
+       1869
+      ],
+      [
+       1843,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       1663
+      ],
+      [
+       2253,
+       1663
+      ],
+      [
+       2253,
+       1869
+      ],
+      [
+       2048,
+       1869
+      ],
+      [
+       2048,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       1663
+      ],
+      [
+       2458,
+       1663
+      ],
+      [
+       2458,
+       1869
+      ],
+      [
+       2252,
+       1869
+      ],
+      [
+       2252,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       1663
+      ],
+      [
+       2663,
+       1663
+      ],
+      [
+       2663,
+       1869
+      ],
+      [
+       2457,
+       1869
+      ],
+      [
+       2457,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.699999988079071
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       1663
+      ],
+      [
+       2868,
+       1663
+      ],
+      [
+       2868,
+       1869
+      ],
+      [
+       2662,
+       1869
+      ],
+      [
+       2662,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       1663
+      ],
+      [
+       3072,
+       1663
+      ],
+      [
+       3072,
+       1869
+      ],
+      [
+       2867,
+       1869
+      ],
+      [
+       2867,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       1663
+      ],
+      [
+       3277,
+       1663
+      ],
+      [
+       3277,
+       1869
+      ],
+      [
+       3072,
+       1869
+      ],
+      [
+       3072,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       1663
+      ],
+      [
+       3482,
+       1663
+      ],
+      [
+       3482,
+       1869
+      ],
+      [
+       3276,
+       1869
+      ],
+      [
+       3276,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       1663
+      ],
+      [
+       3687,
+       1663
+      ],
+      [
+       3687,
+       1869
+      ],
+      [
+       3481,
+       1869
+      ],
+      [
+       3481,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       1663
+      ],
+      [
+       3892,
+       1663
+      ],
+      [
+       3892,
+       1869
+      ],
+      [
+       3686,
+       1869
+      ],
+      [
+       3686,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       1663
+      ],
+      [
+       4096,
+       1663
+      ],
+      [
+       4096,
+       1869
+      ],
+      [
+       3891,
+       1869
+      ],
+      [
+       3891,
+       1663
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       1456
+      ],
+      [
+       205,
+       1456
+      ],
+      [
+       205,
+       1664
+      ],
+      [
+       0,
+       1664
+      ],
+      [
+       0,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.600000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       1456
+      ],
+      [
+       410,
+       1456
+      ],
+      [
+       410,
+       1664
+      ],
+      [
+       204,
+       1664
+      ],
+      [
+       204,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       1456
+      ],
+      [
+       615,
+       1456
+      ],
+      [
+       615,
+       1664
+      ],
+      [
+       409,
+       1664
+      ],
+      [
+       409,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       1456
+      ],
+      [
+       820,
+       1456
+      ],
+      [
+       820,
+       1664
+      ],
+      [
+       614,
+       1664
+      ],
+      [
+       614,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       1456
+      ],
+      [
+       1024,
+       1456
+      ],
+      [
+       1024,
+       1664
+      ],
+      [
+       819,
+       1664
+      ],
+      [
+       819,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       1456
+      ],
+      [
+       1229,
+       1456
+      ],
+      [
+       1229,
+       1664
+      ],
+      [
+       1024,
+       1664
+      ],
+      [
+       1024,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       1456
+      ],
+      [
+       1434,
+       1456
+      ],
+      [
+       1434,
+       1664
+      ],
+      [
+       1228,
+       1664
+      ],
+      [
+       1228,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.7000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       1456
+      ],
+      [
+       1639,
+       1456
+      ],
+      [
+       1639,
+       1664
+      ],
+      [
+       1433,
+       1664
+      ],
+      [
+       1433,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 13.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       1456
+      ],
+      [
+       1844,
+       1456
+      ],
+      [
+       1844,
+       1664
+      ],
+      [
+       1638,
+       1664
+      ],
+      [
+       1638,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.100000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       1456
+      ],
+      [
+       2048,
+       1456
+      ],
+      [
+       2048,
+       1664
+      ],
+      [
+       1843,
+       1664
+      ],
+      [
+       1843,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       1456
+      ],
+      [
+       2253,
+       1456
+      ],
+      [
+       2253,
+       1664
+      ],
+      [
+       2048,
+       1664
+      ],
+      [
+       2048,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       1456
+      ],
+      [
+       2458,
+       1456
+      ],
+      [
+       2458,
+       1664
+      ],
+      [
+       2252,
+       1664
+      ],
+      [
+       2252,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.7999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       1456
+      ],
+      [
+       2663,
+       1456
+      ],
+      [
+       2663,
+       1664
+      ],
+      [
+       2457,
+       1664
+      ],
+      [
+       2457,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 13.399999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       1456
+      ],
+      [
+       2868,
+       1456
+      ],
+      [
+       2868,
+       1664
+      ],
+      [
+       2662,
+       1664
+      ],
+      [
+       2662,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.699999988079071
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       1456
+      ],
+      [
+       3072,
+       1456
+      ],
+      [
+       3072,
+       1664
+      ],
+      [
+       2867,
+       1664
+      ],
+      [
+       2867,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       1456
+      ],
+      [
+       3277,
+       1456
+      ],
+      [
+       3277,
+       1664
+      ],
+      [
+       3072,
+       1664
+      ],
+      [
+       3072,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       1456
+      ],
+      [
+       3482,
+       1456
+      ],
+      [
+       3482,
+       1664
+      ],
+      [
+       3276,
+       1664
+      ],
+      [
+       3276,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       1456
+      ],
+      [
+       3687,
+       1456
+      ],
+      [
+       3687,
+       1664
+      ],
+      [
+       3481,
+       1664
+      ],
+      [
+       3481,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       1456
+      ],
+      [
+       3892,
+       1456
+      ],
+      [
+       3892,
+       1664
+      ],
+      [
+       3686,
+       1664
+      ],
+      [
+       3686,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       1456
+      ],
+      [
+       4096,
+       1456
+      ],
+      [
+       4096,
+       1664
+      ],
+      [
+       3891,
+       1664
+      ],
+      [
+       3891,
+       1456
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       1250
+      ],
+      [
+       205,
+       1250
+      ],
+      [
+       205,
+       1457
+      ],
+      [
+       0,
+       1457
+      ],
+      [
+       0,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       1250
+      ],
+      [
+       410,
+       1250
+      ],
+      [
+       410,
+       1457
+      ],
+      [
+       204,
+       1457
+      ],
+      [
+       204,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       1250
+      ],
+      [
+       615,
+       1250
+      ],
+      [
+       615,
+       1457
+      ],
+      [
+       409,
+       1457
+      ],
+      [
+       409,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.600000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       1250
+      ],
+      [
+       820,
+       1250
+      ],
+      [
+       820,
+       1457
+      ],
+      [
+       614,
+       1457
+      ],
+      [
+       614,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       1250
+      ],
+      [
+       1024,
+       1250
+      ],
+      [
+       1024,
+       1457
+      ],
+      [
+       819,
+       1457
+      ],
+      [
+       819,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       1250
+      ],
+      [
+       1229,
+       1250
+      ],
+      [
+       1229,
+       1457
+      ],
+      [
+       1024,
+       1457
+      ],
+      [
+       1024,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       1250
+      ],
+      [
+       1434,
+       1250
+      ],
+      [
+       1434,
+       1457
+      ],
+      [
+       1228,
+       1457
+      ],
+      [
+       1228,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       1250
+      ],
+      [
+       1639,
+       1250
+      ],
+      [
+       1639,
+       1457
+      ],
+      [
+       1433,
+       1457
+      ],
+      [
+       1433,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       1250
+      ],
+      [
+       1844,
+       1250
+      ],
+      [
+       1844,
+       1457
+      ],
+      [
+       1638,
+       1457
+      ],
+      [
+       1638,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       1250
+      ],
+      [
+       2048,
+       1250
+      ],
+      [
+       2048,
+       1457
+      ],
+      [
+       1843,
+       1457
+      ],
+      [
+       1843,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       1250
+      ],
+      [
+       2253,
+       1250
+      ],
+      [
+       2253,
+       1457
+      ],
+      [
+       2048,
+       1457
+      ],
+      [
+       2048,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       1250
+      ],
+      [
+       2458,
+       1250
+      ],
+      [
+       2458,
+       1457
+      ],
+      [
+       2252,
+       1457
+      ],
+      [
+       2252,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       1250
+      ],
+      [
+       2663,
+       1250
+      ],
+      [
+       2663,
+       1457
+      ],
+      [
+       2457,
+       1457
+      ],
+      [
+       2457,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       1250
+      ],
+      [
+       2868,
+       1250
+      ],
+      [
+       2868,
+       1457
+      ],
+      [
+       2662,
+       1457
+      ],
+      [
+       2662,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.399999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       1250
+      ],
+      [
+       3072,
+       1250
+      ],
+      [
+       3072,
+       1457
+      ],
+      [
+       2867,
+       1457
+      ],
+      [
+       2867,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       1250
+      ],
+      [
+       3277,
+       1250
+      ],
+      [
+       3277,
+       1457
+      ],
+      [
+       3072,
+       1457
+      ],
+      [
+       3072,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.20000000298023224
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       1250
+      ],
+      [
+       3482,
+       1250
+      ],
+      [
+       3482,
+       1457
+      ],
+      [
+       3276,
+       1457
+      ],
+      [
+       3276,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       1250
+      ],
+      [
+       3687,
+       1250
+      ],
+      [
+       3687,
+       1457
+      ],
+      [
+       3481,
+       1457
+      ],
+      [
+       3481,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 11.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       1250
+      ],
+      [
+       3892,
+       1250
+      ],
+      [
+       3892,
+       1457
+      ],
+      [
+       3686,
+       1457
+      ],
+      [
+       3686,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.8999999761581421
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       1250
+      ],
+      [
+       4096,
+       1250
+      ],
+      [
+       4096,
+       1457
+      ],
+      [
+       3891,
+       1457
+      ],
+      [
+       3891,
+       1250
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       1043
+      ],
+      [
+       205,
+       1043
+      ],
+      [
+       205,
+       1251
+      ],
+      [
+       0,
+       1251
+      ],
+      [
+       0,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       1043
+      ],
+      [
+       410,
+       1043
+      ],
+      [
+       410,
+       1251
+      ],
+      [
+       204,
+       1251
+      ],
+      [
+       204,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.100000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       1043
+      ],
+      [
+       615,
+       1043
+      ],
+      [
+       615,
+       1251
+      ],
+      [
+       409,
+       1251
+      ],
+      [
+       409,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -7.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       1043
+      ],
+      [
+       820,
+       1043
+      ],
+      [
+       820,
+       1251
+      ],
+      [
+       614,
+       1251
+      ],
+      [
+       614,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       1043
+      ],
+      [
+       1024,
+       1043
+      ],
+      [
+       1024,
+       1251
+      ],
+      [
+       819,
+       1251
+      ],
+      [
+       819,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       1043
+      ],
+      [
+       1229,
+       1043
+      ],
+      [
+       1229,
+       1251
+      ],
+      [
+       1024,
+       1251
+      ],
+      [
+       1024,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       1043
+      ],
+      [
+       1434,
+       1043
+      ],
+      [
+       1434,
+       1251
+      ],
+      [
+       1228,
+       1251
+      ],
+      [
+       1228,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.399999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       1043
+      ],
+      [
+       1639,
+       1043
+      ],
+      [
+       1639,
+       1251
+      ],
+      [
+       1433,
+       1251
+      ],
+      [
+       1433,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       1043
+      ],
+      [
+       1844,
+       1043
+      ],
+      [
+       1844,
+       1251
+      ],
+      [
+       1638,
+       1251
+      ],
+      [
+       1638,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.699999988079071
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       1043
+      ],
+      [
+       2048,
+       1043
+      ],
+      [
+       2048,
+       1251
+      ],
+      [
+       1843,
+       1251
+      ],
+      [
+       1843,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       1043
+      ],
+      [
+       2253,
+       1043
+      ],
+      [
+       2253,
+       1251
+      ],
+      [
+       2048,
+       1251
+      ],
+      [
+       2048,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       1043
+      ],
+      [
+       2458,
+       1043
+      ],
+      [
+       2458,
+       1251
+      ],
+      [
+       2252,
+       1251
+      ],
+      [
+       2252,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       1043
+      ],
+      [
+       2663,
+       1043
+      ],
+      [
+       2663,
+       1251
+      ],
+      [
+       2457,
+       1251
+      ],
+      [
+       2457,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 11.100000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       1043
+      ],
+      [
+       2868,
+       1043
+      ],
+      [
+       2868,
+       1251
+      ],
+      [
+       2662,
+       1251
+      ],
+      [
+       2662,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       1043
+      ],
+      [
+       3072,
+       1043
+      ],
+      [
+       3072,
+       1251
+      ],
+      [
+       2867,
+       1251
+      ],
+      [
+       2867,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 11.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       1043
+      ],
+      [
+       3277,
+       1043
+      ],
+      [
+       3277,
+       1251
+      ],
+      [
+       3072,
+       1251
+      ],
+      [
+       3072,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.600000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       1043
+      ],
+      [
+       3482,
+       1043
+      ],
+      [
+       3482,
+       1251
+      ],
+      [
+       3276,
+       1251
+      ],
+      [
+       3276,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       1043
+      ],
+      [
+       3687,
+       1043
+      ],
+      [
+       3687,
+       1251
+      ],
+      [
+       3481,
+       1251
+      ],
+      [
+       3481,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       1043
+      ],
+      [
+       3892,
+       1043
+      ],
+      [
+       3892,
+       1251
+      ],
+      [
+       3686,
+       1251
+      ],
+      [
+       3686,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -9.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       1043
+      ],
+      [
+       4096,
+       1043
+      ],
+      [
+       4096,
+       1251
+      ],
+      [
+       3891,
+       1251
+      ],
+      [
+       3891,
+       1043
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.8999999761581421
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       835
+      ],
+      [
+       205,
+       835
+      ],
+      [
+       205,
+       1044
+      ],
+      [
+       0,
+       1044
+      ],
+      [
+       0,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       835
+      ],
+      [
+       410,
+       835
+      ],
+      [
+       410,
+       1044
+      ],
+      [
+       204,
+       1044
+      ],
+      [
+       204,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       835
+      ],
+      [
+       615,
+       835
+      ],
+      [
+       615,
+       1044
+      ],
+      [
+       409,
+       1044
+      ],
+      [
+       409,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       835
+      ],
+      [
+       820,
+       835
+      ],
+      [
+       820,
+       1044
+      ],
+      [
+       614,
+       1044
+      ],
+      [
+       614,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       835
+      ],
+      [
+       1024,
+       835
+      ],
+      [
+       1024,
+       1044
+      ],
+      [
+       819,
+       1044
+      ],
+      [
+       819,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       835
+      ],
+      [
+       1229,
+       835
+      ],
+      [
+       1229,
+       1044
+      ],
+      [
+       1024,
+       1044
+      ],
+      [
+       1024,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -6.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       835
+      ],
+      [
+       1434,
+       835
+      ],
+      [
+       1434,
+       1044
+      ],
+      [
+       1228,
+       1044
+      ],
+      [
+       1228,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       835
+      ],
+      [
+       1639,
+       835
+      ],
+      [
+       1639,
+       1044
+      ],
+      [
+       1433,
+       1044
+      ],
+      [
+       1433,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       835
+      ],
+      [
+       1844,
+       835
+      ],
+      [
+       1844,
+       1044
+      ],
+      [
+       1638,
+       1044
+      ],
+      [
+       1638,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       835
+      ],
+      [
+       2048,
+       835
+      ],
+      [
+       2048,
+       1044
+      ],
+      [
+       1843,
+       1044
+      ],
+      [
+       1843,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       835
+      ],
+      [
+       2253,
+       835
+      ],
+      [
+       2253,
+       1044
+      ],
+      [
+       2048,
+       1044
+      ],
+      [
+       2048,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.600000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       835
+      ],
+      [
+       2458,
+       835
+      ],
+      [
+       2458,
+       1044
+      ],
+      [
+       2252,
+       1044
+      ],
+      [
+       2252,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.200000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       835
+      ],
+      [
+       2663,
+       835
+      ],
+      [
+       2663,
+       1044
+      ],
+      [
+       2457,
+       1044
+      ],
+      [
+       2457,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       835
+      ],
+      [
+       2868,
+       835
+      ],
+      [
+       2868,
+       1044
+      ],
+      [
+       2662,
+       1044
+      ],
+      [
+       2662,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       835
+      ],
+      [
+       3072,
+       835
+      ],
+      [
+       3072,
+       1044
+      ],
+      [
+       2867,
+       1044
+      ],
+      [
+       2867,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       835
+      ],
+      [
+       3277,
+       835
+      ],
+      [
+       3277,
+       1044
+      ],
+      [
+       3072,
+       1044
+      ],
+      [
+       3072,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       835
+      ],
+      [
+       3482,
+       835
+      ],
+      [
+       3482,
+       1044
+      ],
+      [
+       3276,
+       1044
+      ],
+      [
+       3276,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.299999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       835
+      ],
+      [
+       3687,
+       835
+      ],
+      [
+       3687,
+       1044
+      ],
+      [
+       3481,
+       1044
+      ],
+      [
+       3481,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       835
+      ],
+      [
+       3892,
+       835
+      ],
+      [
+       3892,
+       1044
+      ],
+      [
+       3686,
+       1044
+      ],
+      [
+       3686,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.20000000298023224
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       835
+      ],
+      [
+       4096,
+       835
+      ],
+      [
+       4096,
+       1044
+      ],
+      [
+       3891,
+       1044
+      ],
+      [
+       3891,
+       835
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       627
+      ],
+      [
+       205,
+       627
+      ],
+      [
+       205,
+       836
+      ],
+      [
+       0,
+       836
+      ],
+      [
+       0,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       627
+      ],
+      [
+       410,
+       627
+      ],
+      [
+       410,
+       836
+      ],
+      [
+       204,
+       836
+      ],
+      [
+       204,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       627
+      ],
+      [
+       615,
+       627
+      ],
+      [
+       615,
+       836
+      ],
+      [
+       409,
+       836
+      ],
+      [
+       409,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       627
+      ],
+      [
+       820,
+       627
+      ],
+      [
+       820,
+       836
+      ],
+      [
+       614,
+       836
+      ],
+      [
+       614,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -5.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       627
+      ],
+      [
+       1024,
+       627
+      ],
+      [
+       1024,
+       836
+      ],
+      [
+       819,
+       836
+      ],
+      [
+       819,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       627
+      ],
+      [
+       1229,
+       627
+      ],
+      [
+       1229,
+       836
+      ],
+      [
+       1024,
+       836
+      ],
+      [
+       1024,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       627
+      ],
+      [
+       1434,
+       627
+      ],
+      [
+       1434,
+       836
+      ],
+      [
+       1228,
+       836
+      ],
+      [
+       1228,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       627
+      ],
+      [
+       1639,
+       627
+      ],
+      [
+       1639,
+       836
+      ],
+      [
+       1433,
+       836
+      ],
+      [
+       1433,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       627
+      ],
+      [
+       1844,
+       627
+      ],
+      [
+       1844,
+       836
+      ],
+      [
+       1638,
+       836
+      ],
+      [
+       1638,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       627
+      ],
+      [
+       2048,
+       627
+      ],
+      [
+       2048,
+       836
+      ],
+      [
+       1843,
+       836
+      ],
+      [
+       1843,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 16.600000381469727
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       627
+      ],
+      [
+       2253,
+       627
+      ],
+      [
+       2253,
+       836
+      ],
+      [
+       2048,
+       836
+      ],
+      [
+       2048,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.599999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       627
+      ],
+      [
+       2458,
+       627
+      ],
+      [
+       2458,
+       836
+      ],
+      [
+       2252,
+       836
+      ],
+      [
+       2252,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       627
+      ],
+      [
+       2663,
+       627
+      ],
+      [
+       2663,
+       836
+      ],
+      [
+       2457,
+       836
+      ],
+      [
+       2457,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       627
+      ],
+      [
+       2868,
+       627
+      ],
+      [
+       2868,
+       836
+      ],
+      [
+       2662,
+       836
+      ],
+      [
+       2662,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       627
+      ],
+      [
+       3072,
+       627
+      ],
+      [
+       3072,
+       836
+      ],
+      [
+       2867,
+       836
+      ],
+      [
+       2867,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       627
+      ],
+      [
+       3277,
+       627
+      ],
+      [
+       3277,
+       836
+      ],
+      [
+       3072,
+       836
+      ],
+      [
+       3072,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       627
+      ],
+      [
+       3482,
+       627
+      ],
+      [
+       3482,
+       836
+      ],
+      [
+       3276,
+       836
+      ],
+      [
+       3276,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.899999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       627
+      ],
+      [
+       3687,
+       627
+      ],
+      [
+       3687,
+       836
+      ],
+      [
+       3481,
+       836
+      ],
+      [
+       3481,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -13.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       627
+      ],
+      [
+       3892,
+       627
+      ],
+      [
+       3892,
+       836
+      ],
+      [
+       3686,
+       836
+      ],
+      [
+       3686,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       627
+      ],
+      [
+       4096,
+       627
+      ],
+      [
+       4096,
+       836
+      ],
+      [
+       3891,
+       836
+      ],
+      [
+       3891,
+       627
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.100000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       418
+      ],
+      [
+       205,
+       418
+      ],
+      [
+       205,
+       628
+      ],
+      [
+       0,
+       628
+      ],
+      [
+       0,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.399999618530273
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       418
+      ],
+      [
+       410,
+       418
+      ],
+      [
+       410,
+       628
+      ],
+      [
+       204,
+       628
+      ],
+      [
+       204,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       418
+      ],
+      [
+       615,
+       418
+      ],
+      [
+       615,
+       628
+      ],
+      [
+       409,
+       628
+      ],
+      [
+       409,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       418
+      ],
+      [
+       820,
+       418
+      ],
+      [
+       820,
+       628
+      ],
+      [
+       614,
+       628
+      ],
+      [
+       614,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       418
+      ],
+      [
+       1024,
+       418
+      ],
+      [
+       1024,
+       628
+      ],
+      [
+       819,
+       628
+      ],
+      [
+       819,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       418
+      ],
+      [
+       1229,
+       418
+      ],
+      [
+       1229,
+       628
+      ],
+      [
+       1024,
+       628
+      ],
+      [
+       1024,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       418
+      ],
+      [
+       1434,
+       418
+      ],
+      [
+       1434,
+       628
+      ],
+      [
+       1228,
+       628
+      ],
+      [
+       1228,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       418
+      ],
+      [
+       1639,
+       418
+      ],
+      [
+       1639,
+       628
+      ],
+      [
+       1433,
+       628
+      ],
+      [
+       1433,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       418
+      ],
+      [
+       1844,
+       418
+      ],
+      [
+       1844,
+       628
+      ],
+      [
+       1638,
+       628
+      ],
+      [
+       1638,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.600000023841858
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       418
+      ],
+      [
+       2048,
+       418
+      ],
+      [
+       2048,
+       628
+      ],
+      [
+       1843,
+       628
+      ],
+      [
+       1843,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       418
+      ],
+      [
+       2253,
+       418
+      ],
+      [
+       2253,
+       628
+      ],
+      [
+       2048,
+       628
+      ],
+      [
+       2048,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.199999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       418
+      ],
+      [
+       2458,
+       418
+      ],
+      [
+       2458,
+       628
+      ],
+      [
+       2252,
+       628
+      ],
+      [
+       2252,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       418
+      ],
+      [
+       2663,
+       418
+      ],
+      [
+       2663,
+       628
+      ],
+      [
+       2457,
+       628
+      ],
+      [
+       2457,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       418
+      ],
+      [
+       2868,
+       418
+      ],
+      [
+       2868,
+       628
+      ],
+      [
+       2662,
+       628
+      ],
+      [
+       2662,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       418
+      ],
+      [
+       3072,
+       418
+      ],
+      [
+       3072,
+       628
+      ],
+      [
+       2867,
+       628
+      ],
+      [
+       2867,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 13.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       418
+      ],
+      [
+       3277,
+       418
+      ],
+      [
+       3277,
+       628
+      ],
+      [
+       3072,
+       628
+      ],
+      [
+       3072,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.30000001192092896
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       418
+      ],
+      [
+       3482,
+       418
+      ],
+      [
+       3482,
+       628
+      ],
+      [
+       3276,
+       628
+      ],
+      [
+       3276,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.5999999046325684
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       418
+      ],
+      [
+       3687,
+       418
+      ],
+      [
+       3687,
+       628
+      ],
+      [
+       3481,
+       628
+      ],
+      [
+       3481,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       418
+      ],
+      [
+       3892,
+       418
+      ],
+      [
+       3892,
+       628
+      ],
+      [
+       3686,
+       628
+      ],
+      [
+       3686,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       418
+      ],
+      [
+       4096,
+       418
+      ],
+      [
+       4096,
+       628
+      ],
+      [
+       3891,
+       628
+      ],
+      [
+       3891,
+       418
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.4000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       209
+      ],
+      [
+       205,
+       209
+      ],
+      [
+       205,
+       419
+      ],
+      [
+       0,
+       419
+      ],
+      [
+       0,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       209
+      ],
+      [
+       410,
+       209
+      ],
+      [
+       410,
+       419
+      ],
+      [
+       204,
+       419
+      ],
+      [
+       204,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       209
+      ],
+      [
+       615,
+       209
+      ],
+      [
+       615,
+       419
+      ],
+      [
+       409,
+       419
+      ],
+      [
+       409,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2999999523162842
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       209
+      ],
+      [
+       820,
+       209
+      ],
+      [
+       820,
+       419
+      ],
+      [
+       614,
+       419
+      ],
+      [
+       614,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       209
+      ],
+      [
+       1024,
+       209
+      ],
+      [
+       1024,
+       419
+      ],
+      [
+       819,
+       419
+      ],
+      [
+       819,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -10.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       209
+      ],
+      [
+       1229,
+       209
+      ],
+      [
+       1229,
+       419
+      ],
+      [
+       1024,
+       419
+      ],
+      [
+       1024,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       209
+      ],
+      [
+       1434,
+       209
+      ],
+      [
+       1434,
+       419
+      ],
+      [
+       1228,
+       419
+      ],
+      [
+       1228,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 9.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       209
+      ],
+      [
+       1639,
+       209
+      ],
+      [
+       1639,
+       419
+      ],
+      [
+       1433,
+       419
+      ],
+      [
+       1433,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       209
+      ],
+      [
+       1844,
+       209
+      ],
+      [
+       1844,
+       419
+      ],
+      [
+       1638,
+       419
+      ],
+      [
+       1638,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       209
+      ],
+      [
+       2048,
+       209
+      ],
+      [
+       2048,
+       419
+      ],
+      [
+       1843,
+       419
+      ],
+      [
+       1843,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -4.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       209
+      ],
+      [
+       2253,
+       209
+      ],
+      [
+       2253,
+       419
+      ],
+      [
+       2048,
+       419
+      ],
+      [
+       2048,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       209
+      ],
+      [
+       2458,
+       209
+      ],
+      [
+       2458,
+       419
+      ],
+      [
+       2252,
+       419
+      ],
+      [
+       2252,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       209
+      ],
+      [
+       2663,
+       209
+      ],
+      [
+       2663,
+       419
+      ],
+      [
+       2457,
+       419
+      ],
+      [
+       2457,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -3.9000000953674316
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       209
+      ],
+      [
+       2868,
+       209
+      ],
+      [
+       2868,
+       419
+      ],
+      [
+       2662,
+       419
+      ],
+      [
+       2662,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       209
+      ],
+      [
+       3072,
+       209
+      ],
+      [
+       3072,
+       419
+      ],
+      [
+       2867,
+       419
+      ],
+      [
+       2867,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.299999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       209
+      ],
+      [
+       3277,
+       209
+      ],
+      [
+       3277,
+       419
+      ],
+      [
+       3072,
+       419
+      ],
+      [
+       3072,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       209
+      ],
+      [
+       3482,
+       209
+      ],
+      [
+       3482,
+       419
+      ],
+      [
+       3276,
+       419
+      ],
+      [
+       3276,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -1.2000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       209
+      ],
+      [
+       3687,
+       209
+      ],
+      [
+       3687,
+       419
+      ],
+      [
+       3481,
+       419
+      ],
+      [
+       3481,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 10.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       209
+      ],
+      [
+       3892,
+       209
+      ],
+      [
+       3892,
+       419
+      ],
+      [
+       3686,
+       419
+      ],
+      [
+       3686,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       209
+      ],
+      [
+       4096,
+       209
+      ],
+      [
+       4096,
+       419
+      ],
+      [
+       3891,
+       419
+      ],
+      [
+       3891,
+       209
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.399999976158142
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       0
+      ],
+      [
+       205,
+       0
+      ],
+      [
+       205,
+       210
+      ],
+      [
+       0,
+       210
+      ],
+      [
+       0,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.6000000238418579
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       204,
+       0
+      ],
+      [
+       410,
+       0
+      ],
+      [
+       410,
+       210
+      ],
+      [
+       204,
+       210
+      ],
+      [
+       204,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.800000011920929
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       409,
+       0
+      ],
+      [
+       615,
+       0
+      ],
+      [
+       615,
+       210
+      ],
+      [
+       409,
+       210
+      ],
+      [
+       409,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.300000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       0
+      ],
+      [
+       820,
+       0
+      ],
+      [
+       820,
+       210
+      ],
+      [
+       614,
+       210
+      ],
+      [
+       614,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.699999988079071
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       0
+      ],
+      [
+       1024,
+       0
+      ],
+      [
+       1024,
+       210
+      ],
+      [
+       819,
+       210
+      ],
+      [
+       819,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 7.400000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       0
+      ],
+      [
+       1229,
+       0
+      ],
+      [
+       1229,
+       210
+      ],
+      [
+       1024,
+       210
+      ],
+      [
+       1024,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1228,
+       0
+      ],
+      [
+       1434,
+       0
+      ],
+      [
+       1434,
+       210
+      ],
+      [
+       1228,
+       210
+      ],
+      [
+       1228,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.699999809265137
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1433,
+       0
+      ],
+      [
+       1639,
+       0
+      ],
+      [
+       1639,
+       210
+      ],
+      [
+       1433,
+       210
+      ],
+      [
+       1433,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 6.099999904632568
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1638,
+       0
+      ],
+      [
+       1844,
+       0
+      ],
+      [
+       1844,
+       210
+      ],
+      [
+       1638,
+       210
+      ],
+      [
+       1638,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 1.7000000476837158
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1843,
+       0
+      ],
+      [
+       2048,
+       0
+      ],
+      [
+       2048,
+       210
+      ],
+      [
+       1843,
+       210
+      ],
+      [
+       1843,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -7.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2048,
+       0
+      ],
+      [
+       2253,
+       0
+      ],
+      [
+       2253,
+       210
+      ],
+      [
+       2048,
+       210
+      ],
+      [
+       2048,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 3.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2252,
+       0
+      ],
+      [
+       2458,
+       0
+      ],
+      [
+       2458,
+       210
+      ],
+      [
+       2252,
+       210
+      ],
+      [
+       2252,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 5.900000095367432
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2457,
+       0
+      ],
+      [
+       2663,
+       0
+      ],
+      [
+       2663,
+       210
+      ],
+      [
+       2457,
+       210
+      ],
+      [
+       2457,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2662,
+       0
+      ],
+      [
+       2868,
+       0
+      ],
+      [
+       2868,
+       210
+      ],
+      [
+       2662,
+       210
+      ],
+      [
+       2662,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 4.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2867,
+       0
+      ],
+      [
+       3072,
+       0
+      ],
+      [
+       3072,
+       210
+      ],
+      [
+       2867,
+       210
+      ],
+      [
+       2867,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.4000000059604645
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3072,
+       0
+      ],
+      [
+       3277,
+       0
+      ],
+      [
+       3277,
+       210
+      ],
+      [
+       3072,
+       210
+      ],
+      [
+       3072,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 0.10000000149011612
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3276,
+       0
+      ],
+      [
+       3482,
+       0
+      ],
+      [
+       3482,
+       210
+      ],
+      [
+       3276,
+       210
+      ],
+      [
+       3276,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -2.700000047683716
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3481,
+       0
+      ],
+      [
+       3687,
+       0
+      ],
+      [
+       3687,
+       210
+      ],
+      [
+       3481,
+       210
+      ],
+      [
+       3481,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 8.800000190734863
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3686,
+       0
+      ],
+      [
+       3892,
+       0
+      ],
+      [
+       3892,
+       210
+      ],
+      [
+       3686,
+       210
+      ],
+      [
+       3686,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": 2.799999952316284
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3891,
+       0
+      ],
+      [
+       4096,
+       0
+      ],
+      [
+       4096,
+       210
+      ],
+      [
+       3891,
+       210
+      ],
+      [
+       3891,
+       0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_grid_hourly",
+    "temperature_2m": -0.5
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

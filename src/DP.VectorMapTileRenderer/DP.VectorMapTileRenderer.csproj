@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Directory.Build.props defaults TargetFramework to net11.0; clearing it lets the outer build iterate TargetFrameworks. -->
+    <TargetFramework></TargetFramework>
+    <TargetFrameworks>net8.0;net9.0;net10.0;net11.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>DP.VectorMapTileRenderer</RootNamespace>
+    <AssemblyName>DP.VectorMapTileRenderer</AssemblyName>
+    <Description>Vector map tile model, MapLibre Tile v1 and Mapbox Vector Tile readers, MapLibre style engine and file/raster tile sources.</Description>
+    <PackageTags>VectorTile;MapLibre;MLT;MVT;Mapbox;Style;GIS</PackageTags>
+    <IsPackable>true</IsPackable>
+    <IsTrimmable>false</IsTrimmable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="DP.VectorMapTileRenderer.Skia" />
+    <InternalsVisibleTo Include="DP.VectorMapTileRenderer.Tests" />
+  </ItemGroup>
+
+</Project>

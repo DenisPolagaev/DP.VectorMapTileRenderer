@@ -1,0 +1,1525 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2968,
+       2163
+      ],
+      [
+       3127,
+       2163
+      ],
+      [
+       3127,
+       2321
+      ],
+      [
+       2968,
+       2321
+      ],
+      [
+       2968,
+       2163
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 84,
+    "frp": 343.5,
+    "is_gas_flare": true,
+    "satellite": 3
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2967,
+       997
+      ],
+      [
+       3147,
+       997
+      ],
+      [
+       3147,
+       1180
+      ],
+      [
+       2967,
+       1180
+      ],
+      [
+       2967,
+       997
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 2,
+    "frp": 134.9,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2044,
+       2882
+      ],
+      [
+       2152,
+       2882
+      ],
+      [
+       2152,
+       2989
+      ],
+      [
+       2044,
+       2989
+      ],
+      [
+       2044,
+       2882
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 62,
+    "frp": 317.5,
+    "is_gas_flare": true,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1280,
+       2596
+      ],
+      [
+       1412,
+       2596
+      ],
+      [
+       1412,
+       2728
+      ],
+      [
+       1280,
+       2728
+      ],
+      [
+       1280,
+       2596
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 55,
+    "frp": 159.6,
+    "is_gas_flare": true,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       526,
+       1024
+      ],
+      [
+       647,
+       1024
+      ],
+      [
+       647,
+       1146
+      ],
+      [
+       526,
+       1146
+      ],
+      [
+       526,
+       1024
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 38,
+    "frp": 237.6,
+    "is_gas_flare": false,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1566,
+       1951
+      ],
+      [
+       1765,
+       1951
+      ],
+      [
+       1765,
+       2150
+      ],
+      [
+       1566,
+       2150
+      ],
+      [
+       1566,
+       1951
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 49,
+    "frp": 295.0,
+    "is_gas_flare": false,
+    "satellite": 3
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1701,
+       2006
+      ],
+      [
+       1795,
+       2006
+      ],
+      [
+       1795,
+       2100
+      ],
+      [
+       1701,
+       2100
+      ],
+      [
+       1701,
+       2006
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 88,
+    "frp": 200.5,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       504,
+       2880
+      ],
+      [
+       612,
+       2880
+      ],
+      [
+       612,
+       2987
+      ],
+      [
+       504,
+       2987
+      ],
+      [
+       504,
+       2880
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 59,
+    "frp": 276.3,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       548,
+       3628
+      ],
+      [
+       590,
+       3628
+      ],
+      [
+       590,
+       3669
+      ],
+      [
+       548,
+       3669
+      ],
+      [
+       548,
+       3628
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 48,
+    "frp": 278.9,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3628,
+       585
+      ],
+      [
+       3739,
+       585
+      ],
+      [
+       3739,
+       698
+      ],
+      [
+       3628,
+       698
+      ],
+      [
+       3628,
+       585
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 72,
+    "frp": 2.3,
+    "is_gas_flare": false,
+    "satellite": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2475,
+       3348
+      ],
+      [
+       2620,
+       3348
+      ],
+      [
+       2620,
+       3491
+      ],
+      [
+       2475,
+       3491
+      ],
+      [
+       2475,
+       3348
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 69,
+    "frp": 15.6,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1080,
+       837
+      ],
+      [
+       1276,
+       837
+      ],
+      [
+       1276,
+       1035
+      ],
+      [
+       1080,
+       1035
+      ],
+      [
+       1080,
+       837
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 52,
+    "frp": 59.6,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1738,
+       2409
+      ],
+      [
+       1931,
+       2409
+      ],
+      [
+       1931,
+       2601
+      ],
+      [
+       1738,
+       2601
+      ],
+      [
+       1738,
+       2409
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 82,
+    "frp": 85.5,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3554,
+       534
+      ],
+      [
+       3650,
+       534
+      ],
+      [
+       3650,
+       631
+      ],
+      [
+       3554,
+       631
+      ],
+      [
+       3554,
+       534
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 56,
+    "frp": 81.3,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3249,
+       2301
+      ],
+      [
+       3453,
+       2301
+      ],
+      [
+       3453,
+       2504
+      ],
+      [
+       3249,
+       2504
+      ],
+      [
+       3249,
+       2301
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 61,
+    "frp": 19.6,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3140,
+       594
+      ],
+      [
+       3212,
+       594
+      ],
+      [
+       3212,
+       668
+      ],
+      [
+       3140,
+       668
+      ],
+      [
+       3140,
+       594
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 49,
+    "frp": 86.9,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1607,
+       1801
+      ],
+      [
+       1784,
+       1801
+      ],
+      [
+       1784,
+       1978
+      ],
+      [
+       1607,
+       1978
+      ],
+      [
+       1607,
+       1801
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 59,
+    "frp": 240.4,
+    "is_gas_flare": false,
+    "satellite": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1991,
+       2887
+      ],
+      [
+       2059,
+       2887
+      ],
+      [
+       2059,
+       2954
+      ],
+      [
+       1991,
+       2954
+      ],
+      [
+       1991,
+       2887
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 61,
+    "frp": 354.4,
+    "is_gas_flare": true,
+    "satellite": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2573,
+       1224
+      ],
+      [
+       2681,
+       1224
+      ],
+      [
+       2681,
+       1333
+      ],
+      [
+       2573,
+       1333
+      ],
+      [
+       2573,
+       1224
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 89,
+    "frp": 139.8,
+    "is_gas_flare": false,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       582,
+       1473
+      ],
+      [
+       636,
+       1473
+      ],
+      [
+       636,
+       1527
+      ],
+      [
+       582,
+       1527
+      ],
+      [
+       582,
+       1473
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 24,
+    "frp": 146.6,
+    "is_gas_flare": true,
+    "satellite": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2139,
+       1376
+      ],
+      [
+       2321,
+       1376
+      ],
+      [
+       2321,
+       1560
+      ],
+      [
+       2139,
+       1560
+      ],
+      [
+       2139,
+       1376
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 36,
+    "frp": 166.7,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1210,
+       2103
+      ],
+      [
+       1388,
+       2103
+      ],
+      [
+       1388,
+       2281
+      ],
+      [
+       1210,
+       2281
+      ],
+      [
+       1210,
+       2103
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 55,
+    "frp": 272.1,
+    "is_gas_flare": true,
+    "satellite": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3260,
+       2948
+      ],
+      [
+       3324,
+       2948
+      ],
+      [
+       3324,
+       3012
+      ],
+      [
+       3260,
+       3012
+      ],
+      [
+       3260,
+       2948
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 33,
+    "frp": 314.1,
+    "is_gas_flare": true,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       556,
+       1546
+      ],
+      [
+       684,
+       1546
+      ],
+      [
+       684,
+       1675
+      ],
+      [
+       556,
+       1675
+      ],
+      [
+       556,
+       1546
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 67,
+    "frp": 376.4,
+    "is_gas_flare": false,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2593,
+       3309
+      ],
+      [
+       2677,
+       3309
+      ],
+      [
+       2677,
+       3392
+      ],
+      [
+       2593,
+       3392
+      ],
+      [
+       2593,
+       3309
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 82,
+    "frp": 150.3,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3199,
+       1380
+      ],
+      [
+       3322,
+       1380
+      ],
+      [
+       3322,
+       1503
+      ],
+      [
+       3199,
+       1503
+      ],
+      [
+       3199,
+       1380
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 19,
+    "frp": 282.7,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1088,
+       1562
+      ],
+      [
+       1221,
+       1562
+      ],
+      [
+       1221,
+       1695
+      ],
+      [
+       1088,
+       1695
+      ],
+      [
+       1088,
+       1562
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 5,
+    "frp": 136.7,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3314,
+       2448
+      ],
+      [
+       3373,
+       2448
+      ],
+      [
+       3373,
+       2507
+      ],
+      [
+       3314,
+       2507
+      ],
+      [
+       3314,
+       2448
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 99,
+    "frp": 329.6,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       3176,
+       997
+      ],
+      [
+       3359,
+       997
+      ],
+      [
+       3359,
+       1183
+      ],
+      [
+       3176,
+       1183
+      ],
+      [
+       3176,
+       997
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 50,
+    "frp": 92.3,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       426,
+       3027
+      ],
+      [
+       514,
+       3027
+      ],
+      [
+       514,
+       3113
+      ],
+      [
+       426,
+       3113
+      ],
+      [
+       426,
+       3027
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 74,
+    "frp": 348.4,
+    "is_gas_flare": false,
+    "satellite": 3
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2670,
+       2374
+      ],
+      [
+       2786,
+       2374
+      ],
+      [
+       2786,
+       2489
+      ],
+      [
+       2670,
+       2489
+      ],
+      [
+       2670,
+       2374
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 76,
+    "frp": 202.0,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       388,
+       1066
+      ],
+      [
+       439,
+       1066
+      ],
+      [
+       439,
+       1118
+      ],
+      [
+       388,
+       1118
+      ],
+      [
+       388,
+       1066
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 95,
+    "frp": 290.1,
+    "is_gas_flare": true,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2038,
+       2443
+      ],
+      [
+       2080,
+       2443
+      ],
+      [
+       2080,
+       2485
+      ],
+      [
+       2038,
+       2485
+      ],
+      [
+       2038,
+       2443
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 3,
+    "frp": 214.0,
+    "is_gas_flare": true,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1804,
+       1335
+      ],
+      [
+       1877,
+       1335
+      ],
+      [
+       1877,
+       1409
+      ],
+      [
+       1804,
+       1409
+      ],
+      [
+       1804,
+       1335
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 29,
+    "frp": 126.4,
+    "is_gas_flare": false,
+    "satellite": 2
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1027,
+       1655
+      ],
+      [
+       1125,
+       1655
+      ],
+      [
+       1125,
+       1753
+      ],
+      [
+       1027,
+       1753
+      ],
+      [
+       1027,
+       1655
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 98,
+    "frp": 197.7,
+    "is_gas_flare": false,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1377,
+       517
+      ],
+      [
+       1571,
+       517
+      ],
+      [
+       1571,
+       715
+      ],
+      [
+       1377,
+       715
+      ],
+      [
+       1377,
+       517
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 44,
+    "frp": 20.2,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2958,
+       351
+      ],
+      [
+       3145,
+       351
+      ],
+      [
+       3145,
+       542
+      ],
+      [
+       2958,
+       542
+      ],
+      [
+       2958,
+       351
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 39,
+    "frp": 17.2,
+    "is_gas_flare": false,
+    "satellite": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1386,
+       1277
+      ],
+      [
+       1507,
+       1277
+      ],
+      [
+       1507,
+       1398
+      ],
+      [
+       1386,
+       1398
+      ],
+      [
+       1386,
+       1277
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 26,
+    "frp": 212.0,
+    "is_gas_flare": false,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       840,
+       997
+      ],
+      [
+       956,
+       997
+      ],
+      [
+       956,
+       1114
+      ],
+      [
+       840,
+       1114
+      ],
+      [
+       840,
+       997
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 1,
+    "frp": 190.9,
+    "is_gas_flare": true,
+    "satellite": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       2623,
+       3128
+      ],
+      [
+       2774,
+       3128
+      ],
+      [
+       2774,
+       3277
+      ],
+      [
+       2623,
+       3277
+      ],
+      [
+       2623,
+       3128
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "fire_incidents_mvt",
+    "confidence": 4,
+    "frp": 333.3,
+    "is_gas_flare": true,
+    "satellite": 1
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

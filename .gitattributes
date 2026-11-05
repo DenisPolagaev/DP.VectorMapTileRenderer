@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.ttf binary
+*.otf binary
+*.pbf binary
+*.mlt binary
+*.mbtiles binary
+*.pmtiles binary

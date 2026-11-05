@@ -1,0 +1,212 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     0,
+     4096
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "RU",
+    "gust": 0.0,
+    "name": "station-0",
+    "value": 0.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     205,
+     3896
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "BY",
+    "name": "station-1",
+    "value": 1.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     410,
+     3695
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "RU",
+    "name": "station-2",
+    "value": 3.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     614,
+     3494
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "BY",
+    "name": "station-3",
+    "value": 4.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     819,
+     3293
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "RU",
+    "name": "station-0",
+    "value": 6.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1024,
+     3091
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "BY",
+    "gust": 5.0,
+    "name": "station-1",
+    "value": 7.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1229,
+     2888
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "RU",
+    "name": "station-2",
+    "value": 9.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1434,
+     2685
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "BY",
+    "name": "station-3",
+    "value": 10.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1638,
+     2482
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "RU",
+    "name": "station-0",
+    "value": 12.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     1843,
+     2278
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "BY",
+    "name": "station-1",
+    "value": 13.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2048,
+     2074
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "RU",
+    "gust": 10.0,
+    "name": "station-2",
+    "value": 15.0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     2253,
+     1869
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "weather_stations_mvt",
+    "country": "BY",
+    "name": "station-3",
+    "value": 16.5
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}
