@@ -193,6 +193,20 @@ The test suite runs on every target framework and covers golden MLT/MVT tiles, P
 GeoJSON, style expressions, sprite icons, polygon holes, overzoom, large offsets and concurrent
 reads.
 
+## Publishing
+
+NuGet publishing uses **Trusted Publishing (OIDC)** — no long-lived API key.
+
+1. On nuget.org, create a Trusted Publishing policy:
+   - Repository Owner: `DenisPolagaev`
+   - Repository: `DP.VectorMapTileRenderer`
+   - Workflow File: `nuget.yml`
+   - Environment: leave empty (or add `environment: <name>` to the `publish` job and use the same name)
+2. Add the GitHub Actions secret `NUGET_USER` with your nuget.org **username (profile name)**, not email.
+3. Push a `v*` tag or run the `nuget` workflow manually with `publish=true`.
+
+The workflow requests a short-lived API key through `NuGet/login@v1` and pushes `.nupkg` + `.snupkg`.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

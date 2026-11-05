@@ -20,7 +20,7 @@ permissions:
   contents: read
 
 env:
-  NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
+  NUGET_USER: ${{ secrets.NUGET_USER }}
 
 jobs:
   version:
@@ -128,6 +128,9 @@ jobs:
     needs: [test, pack]
     if: startsWith(github.ref, 'refs/tags/v') || inputs.publish == true
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
     steps:
       - name: Download packages
         uses: actions/download-artifact@v4
@@ -144,22 +147,29 @@ jobs:
       - name: List packages
         run: ls -lah artifacts/packages
 
+      - name: NuGet login (OIDC → temporary API key)
+        id: login
+        if: env.NUGET_USER != ''
+        uses: NuGet/login@v1
+        with:
+          user: ${{ env.NUGET_USER }}
+
       - name: Publish to NuGet.org
-        if: env.NUGET_API_KEY != ''
+        if: env.NUGET_USER != ''
         shell: bash
         run: |
           shopt -s nullglob
           for package in artifacts/packages/*.nupkg; do
             echo "Pushing $package"
             dotnet nuget push "$package" \
-              --api-key "$NUGET_API_KEY" \
+              --api-key "${{ steps.login.outputs.NUGET_API_KEY }}" \
               --source https://api.nuget.org/v3/index.json \
               --skip-duplicate
           done
           for symbols in artifacts/packages/*.snupkg; do
             echo "Pushing symbols $symbols"
             dotnet nuget push "$symbols" \
-              --api-key "$NUGET_API_KEY" \
+              --api-key "${{ steps.login.outputs.NUGET_API_KEY }}" \
               --source https://api.nuget.org/v3/index.json \
               --skip-duplicate
           done
