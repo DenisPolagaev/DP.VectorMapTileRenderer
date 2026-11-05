@@ -122,7 +122,7 @@ public sealed class PmtilesTests
     [Fact]
     public async Task ReturnsNullForMissingTile()
     {
-        var archive = BuildArchive([1, 2, 3], PmtilesTileType.Mvt);
+        var archive = BuildArchive([1, 2, 3], PmtilesTileType.Mlt);
         using var source = new PmtilesTileSource(new PmtilesStreamRangeSource(new MemoryStream(archive)));
 
         Assert.Null(await source.GetVectorTile(1, 0, 0, TestContext.Current.CancellationToken));
@@ -299,3 +299,4 @@ public sealed class PmtilesTests
         return result.ToArray();
     }
 }
+

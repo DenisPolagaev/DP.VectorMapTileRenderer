@@ -2,7 +2,7 @@ using System.IO.Compression;
 
 namespace DP.VectorMapTileRenderer.Sources;
 
-/// <summary>Provides a raw tile payload (MVT/MLT bytes, PNG/JPEG raster, ...).</summary>
+/// <summary>Provides a raw tile payload (MapLibre Tile bytes, PNG/JPEG raster, ...).</summary>
 public interface ITileSource
 {
     Task<Stream> GetTile(int x, int y, int zoom, CancellationToken cancellationToken = default);
@@ -22,19 +22,16 @@ public sealed class FileVectorTileSource : IVectorTileSource
 {
     private readonly string? _path;
     private readonly Stream? _stream;
-    private readonly VectorTileEncoding? _encoding;
     private readonly SemaphoreSlim _streamLock = new(1, 1);
 
-    public FileVectorTileSource(string path, VectorTileEncoding? encoding = null)
+    public FileVectorTileSource(string path)
     {
         _path = path;
-        _encoding = encoding;
     }
 
-    public FileVectorTileSource(Stream stream, VectorTileEncoding? encoding = null)
+    public FileVectorTileSource(Stream stream)
     {
         _stream = stream;
-        _encoding = encoding;
     }
 
     public async Task<Stream> GetTile(int x, int y, int zoom, CancellationToken cancellationToken = default)
@@ -76,7 +73,7 @@ public sealed class FileVectorTileSource : IVectorTileSource
             bytes = Decompress(bytes);
         }
 
-        return bytes.Length == 0 ? null : VectorTileReader.Read(bytes, _encoding);
+        return bytes.Length == 0 ? null : VectorTileReader.Read(bytes);
     }
 
     private string ResolvePath(int x, int y, int zoom)
@@ -137,3 +134,4 @@ public sealed class RasterTileSource : ITileSource
         return Task.FromResult<Stream>(File.Open(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite));
     }
 }
+

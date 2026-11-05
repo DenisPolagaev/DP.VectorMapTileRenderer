@@ -1,7 +1,7 @@
 # DP.VectorMapTileRenderer
 
-Core package of the renderer family: vector tile model, MLT/MVT decoding, MapLibre style engine,
-file/raster tile sources and overzoom. **No external NuGet dependencies.**
+Core package of the renderer family: vector tile model, MapLibre Tile (MLT v1) decoding,
+MapLibre style engine, file/raster tile sources and overzoom. **No external NuGet dependencies.**
 
 ## Install
 
@@ -15,9 +15,8 @@ dotnet add package DP.VectorMapTileRenderer
 | --- | --- |
 | `VectorTile`, `VectorTileLayer`, `VectorTileFeature` | encoding-neutral tile model |
 | `Point`, `Rect`, `VectorGeometryType` | geometry primitives |
-| `VectorTileReader` | reads MLT or MVT (auto-detected) |
+| `VectorTileReader` | reads a MapLibre Tile payload |
 | `Mlt.MltTileReader` | MapLibre Tile v1 decoder |
-| `Mvt.MvtTileReader` | Mapbox Vector Tile 2.x decoder |
 | `Style`, `Layer`, `Source`, `Brush`, `Paint`, `ColorParser` | MapLibre/Mapbox style engine |
 | `FileVectorTileSource`, `RasterTileSource` | local tile sources |
 | `TileOverzoom` | overzoom helper |
@@ -37,8 +36,7 @@ using var source = new FileVectorTileSource("tiles/{z}/{x}/{y}.mlt");
 var decoded = await source.GetVectorTile(0, 0, 0);
 ```
 
-`VectorTileReader.Detect` distinguishes MLT from MVT by the first byte; gzip is unwrapped by
-`FileVectorTileSource`.
+`VectorTileReader` reads MapLibre Tile only; gzip is unwrapped by `FileVectorTileSource`.
 
 ## Style engine
 

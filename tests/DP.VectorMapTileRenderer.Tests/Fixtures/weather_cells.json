@@ -31,7 +31,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 12.199999809265137
+    "temperature_2m": 12.2
    },
    "type": "Feature"
   },
@@ -66,7 +66,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -10.800000190734863
+    "temperature_2m": -10.8
    },
    "type": "Feature"
   },
@@ -101,7 +101,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.099999904632568
+    "temperature_2m": 4.1
    },
    "type": "Feature"
   },
@@ -136,7 +136,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.800000011920929
+    "temperature_2m": -0.8
    },
    "type": "Feature"
   },
@@ -171,7 +171,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.30000001192092896
+    "temperature_2m": -0.3
    },
    "type": "Feature"
   },
@@ -206,7 +206,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.8999999761581421
+    "temperature_2m": 0.9
    },
    "type": "Feature"
   },
@@ -241,7 +241,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -8.100000381469727
+    "temperature_2m": -8.1
    },
    "type": "Feature"
   },
@@ -276,7 +276,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.800000011920929
+    "temperature_2m": 0.8
    },
    "type": "Feature"
   },
@@ -311,7 +311,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.299999952316284
+    "temperature_2m": -2.3
    },
    "type": "Feature"
   },
@@ -346,7 +346,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 18.600000381469727
+    "temperature_2m": 18.6
    },
    "type": "Feature"
   },
@@ -381,7 +381,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.0999999046325684
+    "temperature_2m": 3.1
    },
    "type": "Feature"
   },
@@ -416,7 +416,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.20000000298023224
+    "temperature_2m": 0.2
    },
    "type": "Feature"
   },
@@ -451,7 +451,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.6000000238418579
+    "temperature_2m": 0.6
    },
    "type": "Feature"
   },
@@ -486,7 +486,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2999999523162842
+    "temperature_2m": -1.3
    },
    "type": "Feature"
   },
@@ -521,7 +521,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.299999952316284
+    "temperature_2m": -3.3
    },
    "type": "Feature"
   },
@@ -591,7 +591,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.400000095367432
+    "temperature_2m": 4.4
    },
    "type": "Feature"
   },
@@ -626,7 +626,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.800000011920929
+    "temperature_2m": 0.8
    },
    "type": "Feature"
   },
@@ -661,7 +661,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.800000190734863
+    "temperature_2m": 6.8
    },
    "type": "Feature"
   },
@@ -731,7 +731,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.0999999046325684
+    "temperature_2m": 2.1
    },
    "type": "Feature"
   },
@@ -766,7 +766,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.699999809265137
+    "temperature_2m": 9.7
    },
    "type": "Feature"
   },
@@ -801,7 +801,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -871,7 +871,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.100000023841858
+    "temperature_2m": 1.1
    },
    "type": "Feature"
   },
@@ -906,7 +906,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -941,7 +941,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 11.699999809265137
+    "temperature_2m": 11.7
    },
    "type": "Feature"
   },
@@ -976,7 +976,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.699999988079071
+    "temperature_2m": 0.7
    },
    "type": "Feature"
   },
@@ -1011,7 +1011,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.800000011920929
+    "temperature_2m": 0.8
    },
    "type": "Feature"
   },
@@ -1081,7 +1081,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.4000000953674316
+    "temperature_2m": -2.4
    },
    "type": "Feature"
   },
@@ -1151,7 +1151,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.400000095367432
+    "temperature_2m": 6.4
    },
    "type": "Feature"
   },
@@ -1186,7 +1186,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -1256,7 +1256,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.400000095367432
+    "temperature_2m": 5.4
    },
    "type": "Feature"
   },
@@ -1291,7 +1291,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -12.100000381469727
+    "temperature_2m": -12.1
    },
    "type": "Feature"
   },
@@ -1326,7 +1326,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.099999904632568
+    "temperature_2m": 7.1
    },
    "type": "Feature"
   },
@@ -1361,7 +1361,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.799999952316284
+    "temperature_2m": -2.8
    },
    "type": "Feature"
   },
@@ -1396,7 +1396,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -6.300000190734863
+    "temperature_2m": -6.3
    },
    "type": "Feature"
   },
@@ -1431,7 +1431,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.4000000953674316
+    "temperature_2m": 3.4
    },
    "type": "Feature"
   },
@@ -1501,7 +1501,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.20000000298023224
+    "temperature_2m": -0.2
    },
    "type": "Feature"
   },
@@ -1536,7 +1536,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.4000000953674316
+    "temperature_2m": -3.4
    },
    "type": "Feature"
   },
@@ -1571,7 +1571,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.0999999046325684
+    "temperature_2m": 2.1
    },
    "type": "Feature"
   },
@@ -1606,7 +1606,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.7000000476837158
+    "temperature_2m": 1.7
    },
    "type": "Feature"
   },
@@ -1676,7 +1676,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.699999809265137
+    "temperature_2m": 5.7
    },
    "type": "Feature"
   },
@@ -1746,7 +1746,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.599999904632568
+    "temperature_2m": 7.6
    },
    "type": "Feature"
   },
@@ -1816,7 +1816,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.5999999046325684
+    "temperature_2m": -2.6
    },
    "type": "Feature"
   },
@@ -1851,7 +1851,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -1886,7 +1886,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -1921,7 +1921,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.8999999761581421
+    "temperature_2m": 0.9
    },
    "type": "Feature"
   },
@@ -1956,7 +1956,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.899999976158142
+    "temperature_2m": -1.9
    },
    "type": "Feature"
   },
@@ -1991,7 +1991,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.0999999046325684
+    "temperature_2m": 3.1
    },
    "type": "Feature"
   },
@@ -2131,7 +2131,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -6.199999809265137
+    "temperature_2m": -6.2
    },
    "type": "Feature"
   },
@@ -2166,7 +2166,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.299999952316284
+    "temperature_2m": 2.3
    },
    "type": "Feature"
   },
@@ -2201,7 +2201,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.799999952316284
+    "temperature_2m": -2.8
    },
    "type": "Feature"
   },
@@ -2236,7 +2236,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -2271,7 +2271,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -8.199999809265137
+    "temperature_2m": -8.2
    },
    "type": "Feature"
   },
@@ -2306,7 +2306,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.5999999046325684
+    "temperature_2m": -2.6
    },
    "type": "Feature"
   },
@@ -2376,7 +2376,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.800000190734863
+    "temperature_2m": 7.8
    },
    "type": "Feature"
   },
@@ -2411,7 +2411,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -8.800000190734863
+    "temperature_2m": -8.8
    },
    "type": "Feature"
   },
@@ -2481,7 +2481,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.5999999046325684
+    "temperature_2m": 3.6
    },
    "type": "Feature"
   },
@@ -2621,7 +2621,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.799999952316284
+    "temperature_2m": 3.8
    },
    "type": "Feature"
   },
@@ -2656,7 +2656,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.200000047683716
+    "temperature_2m": -3.2
    },
    "type": "Feature"
   },
@@ -2726,7 +2726,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.899999976158142
+    "temperature_2m": 1.9
    },
    "type": "Feature"
   },
@@ -2761,7 +2761,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.10000000149011612
+    "temperature_2m": 0.1
    },
    "type": "Feature"
   },
@@ -2796,7 +2796,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -6.599999904632568
+    "temperature_2m": -6.6
    },
    "type": "Feature"
   },
@@ -2831,7 +2831,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.399999618530273
+    "temperature_2m": 10.4
    },
    "type": "Feature"
   },
@@ -2866,7 +2866,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -2901,7 +2901,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -2936,7 +2936,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.699999809265137
+    "temperature_2m": 7.7
    },
    "type": "Feature"
   },
@@ -2971,7 +2971,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.700000047683716
+    "temperature_2m": 3.7
    },
    "type": "Feature"
   },
@@ -3006,7 +3006,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2000000476837158
+    "temperature_2m": -1.2
    },
    "type": "Feature"
   },
@@ -3111,7 +3111,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.899999618530273
+    "temperature_2m": 8.9
    },
    "type": "Feature"
   },
@@ -3146,7 +3146,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -5.300000190734863
+    "temperature_2m": -5.3
    },
    "type": "Feature"
   },
@@ -3216,7 +3216,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.4000000059604645
+    "temperature_2m": 0.4
    },
    "type": "Feature"
   },
@@ -3251,7 +3251,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.0999999046325684
+    "temperature_2m": 3.1
    },
    "type": "Feature"
   },
@@ -3286,7 +3286,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -3321,7 +3321,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -4.199999809265137
+    "temperature_2m": -4.2
    },
    "type": "Feature"
   },
@@ -3356,7 +3356,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -6.699999809265137
+    "temperature_2m": -6.7
    },
    "type": "Feature"
   },
@@ -3426,7 +3426,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.100000381469727
+    "temperature_2m": 8.1
    },
    "type": "Feature"
   },
@@ -3461,7 +3461,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -3496,7 +3496,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.0999999046325684
+    "temperature_2m": 3.1
    },
    "type": "Feature"
   },
@@ -3531,7 +3531,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.4000000059604645
+    "temperature_2m": 0.4
    },
    "type": "Feature"
   },
@@ -3601,7 +3601,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.800000011920929
+    "temperature_2m": 0.8
    },
    "type": "Feature"
   },
@@ -3636,7 +3636,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.099999904632568
+    "temperature_2m": 6.1
    },
    "type": "Feature"
   },
@@ -3706,7 +3706,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.700000047683716
+    "temperature_2m": 2.7
    },
    "type": "Feature"
   },
@@ -3741,7 +3741,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.399999976158142
+    "temperature_2m": 1.4
    },
    "type": "Feature"
   },
@@ -3776,7 +3776,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -3811,7 +3811,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.0999999046325684
+    "temperature_2m": 3.1
    },
    "type": "Feature"
   },
@@ -3846,7 +3846,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 14.800000190734863
+    "temperature_2m": 14.8
    },
    "type": "Feature"
   },
@@ -3951,7 +3951,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -8.199999809265137
+    "temperature_2m": -8.2
    },
    "type": "Feature"
   },
@@ -3986,7 +3986,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.30000001192092896
+    "temperature_2m": 0.3
    },
    "type": "Feature"
   },
@@ -4056,7 +4056,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -4091,7 +4091,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -9.399999618530273
+    "temperature_2m": -9.4
    },
    "type": "Feature"
   },
@@ -4126,7 +4126,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.900000095367432
+    "temperature_2m": 7.9
    },
    "type": "Feature"
   },
@@ -4161,7 +4161,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.300000190734863
+    "temperature_2m": 7.3
    },
    "type": "Feature"
   },
@@ -4231,7 +4231,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.9000000953674316
+    "temperature_2m": -2.9
    },
    "type": "Feature"
   },
@@ -4301,7 +4301,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.200000047683716
+    "temperature_2m": 2.2
    },
    "type": "Feature"
   },
@@ -4336,7 +4336,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.199999809265137
+    "temperature_2m": 5.2
    },
    "type": "Feature"
   },
@@ -4371,7 +4371,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 12.199999809265137
+    "temperature_2m": 12.2
    },
    "type": "Feature"
   },
@@ -4441,7 +4441,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -4476,7 +4476,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },
@@ -4511,7 +4511,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.800000190734863
+    "temperature_2m": 10.8
    },
    "type": "Feature"
   },
@@ -4546,7 +4546,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.699999809265137
+    "temperature_2m": 5.7
    },
    "type": "Feature"
   },
@@ -4581,7 +4581,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.800000190734863
+    "temperature_2m": 8.8
    },
    "type": "Feature"
   },
@@ -4616,7 +4616,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.4000000953674316
+    "temperature_2m": -3.4
    },
    "type": "Feature"
   },
@@ -4686,7 +4686,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.0999999046325684
+    "temperature_2m": -2.1
    },
    "type": "Feature"
   },
@@ -4756,7 +4756,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.300000190734863
+    "temperature_2m": 5.3
    },
    "type": "Feature"
   },
@@ -4826,7 +4826,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.30000001192092896
+    "temperature_2m": -0.3
    },
    "type": "Feature"
   },
@@ -4861,7 +4861,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.400000095367432
+    "temperature_2m": 4.4
    },
    "type": "Feature"
   },
@@ -4931,7 +4931,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.700000047683716
+    "temperature_2m": -2.7
    },
    "type": "Feature"
   },
@@ -4966,7 +4966,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.400000095367432
+    "temperature_2m": 4.4
    },
    "type": "Feature"
   },
@@ -5001,7 +5001,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 14.300000190734863
+    "temperature_2m": 14.3
    },
    "type": "Feature"
   },
@@ -5036,7 +5036,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.800000011920929
+    "temperature_2m": 0.8
    },
    "type": "Feature"
   },
@@ -5071,7 +5071,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.800000011920929
+    "temperature_2m": -0.8
    },
    "type": "Feature"
   },
@@ -5106,7 +5106,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.9000000953674316
+    "temperature_2m": -3.9
    },
    "type": "Feature"
   },
@@ -5141,7 +5141,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -4.699999809265137
+    "temperature_2m": -4.7
    },
    "type": "Feature"
   },
@@ -5176,7 +5176,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.599999904632568
+    "temperature_2m": 4.6
    },
    "type": "Feature"
   },
@@ -5211,7 +5211,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.300000190734863
+    "temperature_2m": 6.3
    },
    "type": "Feature"
   },
@@ -5281,7 +5281,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.700000047683716
+    "temperature_2m": 3.7
    },
    "type": "Feature"
   },
@@ -5316,7 +5316,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.5999999046325684
+    "temperature_2m": 2.6
    },
    "type": "Feature"
   },
@@ -5351,7 +5351,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.700000047683716
+    "temperature_2m": 2.7
    },
    "type": "Feature"
   },
@@ -5386,7 +5386,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -5.599999904632568
+    "temperature_2m": -5.6
    },
    "type": "Feature"
   },
@@ -5421,7 +5421,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.30000001192092896
+    "temperature_2m": -0.3
    },
    "type": "Feature"
   },
@@ -5456,7 +5456,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.5999999046325684
+    "temperature_2m": 2.6
    },
    "type": "Feature"
   },
@@ -5491,7 +5491,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.899999976158142
+    "temperature_2m": -1.9
    },
    "type": "Feature"
   },
@@ -5526,7 +5526,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.4000000059604645
+    "temperature_2m": -0.4
    },
    "type": "Feature"
   },
@@ -5561,7 +5561,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.0999999046325684
+    "temperature_2m": -2.1
    },
    "type": "Feature"
   },
@@ -5596,7 +5596,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.30000001192092896
+    "temperature_2m": 0.3
    },
    "type": "Feature"
   },
@@ -5631,7 +5631,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.300000190734863
+    "temperature_2m": 6.3
    },
    "type": "Feature"
   },
@@ -5666,7 +5666,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.0
+    "temperature_2m": -0.0
    },
    "type": "Feature"
   },
@@ -5701,7 +5701,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.2000000476837158
+    "temperature_2m": 1.2
    },
    "type": "Feature"
   },
@@ -5736,7 +5736,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.099999904632568
+    "temperature_2m": 6.1
    },
    "type": "Feature"
   },
@@ -5771,7 +5771,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.199999809265137
+    "temperature_2m": 5.2
    },
    "type": "Feature"
   },
@@ -5876,7 +5876,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.300000190734863
+    "temperature_2m": 6.3
    },
    "type": "Feature"
   },
@@ -5911,7 +5911,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.4000000059604645
+    "temperature_2m": -0.4
    },
    "type": "Feature"
   },
@@ -5946,7 +5946,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.700000047683716
+    "temperature_2m": 2.7
    },
    "type": "Feature"
   },
@@ -5981,7 +5981,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.199999809265137
+    "temperature_2m": 6.2
    },
    "type": "Feature"
   },
@@ -6016,7 +6016,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.400000095367432
+    "temperature_2m": 7.4
    },
    "type": "Feature"
   },
@@ -6051,7 +6051,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.199999809265137
+    "temperature_2m": 7.2
    },
    "type": "Feature"
   },
@@ -6086,7 +6086,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },
@@ -6156,7 +6156,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.6000000238418579
+    "temperature_2m": 0.6
    },
    "type": "Feature"
   },
@@ -6191,7 +6191,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.2999999523162842
+    "temperature_2m": 1.3
    },
    "type": "Feature"
   },
@@ -6261,7 +6261,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.800000011920929
+    "temperature_2m": -0.8
    },
    "type": "Feature"
   },
@@ -6296,7 +6296,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 12.800000190734863
+    "temperature_2m": 12.8
    },
    "type": "Feature"
   },
@@ -6331,7 +6331,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.099999904632568
+    "temperature_2m": 7.1
    },
    "type": "Feature"
   },
@@ -6366,7 +6366,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 12.899999618530273
+    "temperature_2m": 12.9
    },
    "type": "Feature"
   },
@@ -6401,7 +6401,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.899999976158142
+    "temperature_2m": 1.9
    },
    "type": "Feature"
   },
@@ -6436,7 +6436,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.10000000149011612
+    "temperature_2m": 0.1
    },
    "type": "Feature"
   },
@@ -6471,7 +6471,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },
@@ -6506,7 +6506,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.699999809265137
+    "temperature_2m": 5.7
    },
    "type": "Feature"
   },
@@ -6541,7 +6541,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.8999999761581421
+    "temperature_2m": -0.9
    },
    "type": "Feature"
   },
@@ -6576,7 +6576,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.9000000953674316
+    "temperature_2m": 3.9
    },
    "type": "Feature"
   },
@@ -6611,7 +6611,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.899999976158142
+    "temperature_2m": 1.9
    },
    "type": "Feature"
   },
@@ -6646,7 +6646,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.100000381469727
+    "temperature_2m": 10.1
    },
    "type": "Feature"
   },
@@ -6681,7 +6681,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2999999523162842
+    "temperature_2m": -1.3
    },
    "type": "Feature"
   },
@@ -6716,7 +6716,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.199999809265137
+    "temperature_2m": 7.2
    },
    "type": "Feature"
   },
@@ -6751,7 +6751,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2000000476837158
+    "temperature_2m": -1.2
    },
    "type": "Feature"
   },
@@ -6786,7 +6786,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.799999952316284
+    "temperature_2m": -2.8
    },
    "type": "Feature"
   },
@@ -6821,7 +6821,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.600000023841858
+    "temperature_2m": -1.6
    },
    "type": "Feature"
   },
@@ -6891,7 +6891,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.700000047683716
+    "temperature_2m": 2.7
    },
    "type": "Feature"
   },
@@ -6926,7 +6926,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.199999809265137
+    "temperature_2m": 7.2
    },
    "type": "Feature"
   },
@@ -6961,7 +6961,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },
@@ -6996,7 +6996,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.099999904632568
+    "temperature_2m": 5.1
    },
    "type": "Feature"
   },
@@ -7031,7 +7031,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.199999809265137
+    "temperature_2m": 10.2
    },
    "type": "Feature"
   },
@@ -7066,7 +7066,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.4000000953674316
+    "temperature_2m": 3.4
    },
    "type": "Feature"
   },
@@ -7136,7 +7136,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.6000000238418579
+    "temperature_2m": 0.6
    },
    "type": "Feature"
   },
@@ -7206,7 +7206,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -7241,7 +7241,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -6.800000190734863
+    "temperature_2m": -6.8
    },
    "type": "Feature"
   },
@@ -7276,7 +7276,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.300000190734863
+    "temperature_2m": 5.3
    },
    "type": "Feature"
   },
@@ -7311,7 +7311,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.899999976158142
+    "temperature_2m": 1.9
    },
    "type": "Feature"
   },
@@ -7346,7 +7346,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.599999904632568
+    "temperature_2m": 7.6
    },
    "type": "Feature"
   },
@@ -7381,7 +7381,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.7000000476837158
+    "temperature_2m": 1.7
    },
    "type": "Feature"
   },
@@ -7416,7 +7416,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.0999999046325684
+    "temperature_2m": -2.1
    },
    "type": "Feature"
   },
@@ -7451,7 +7451,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.799999952316284
+    "temperature_2m": 3.8
    },
    "type": "Feature"
   },
@@ -7486,7 +7486,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.800000011920929
+    "temperature_2m": -0.8
    },
    "type": "Feature"
   },
@@ -7521,7 +7521,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.100000023841858
+    "temperature_2m": 1.1
    },
    "type": "Feature"
   },
@@ -7556,7 +7556,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.200000047683716
+    "temperature_2m": 2.2
    },
    "type": "Feature"
   },
@@ -7591,7 +7591,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.2999999523162842
+    "temperature_2m": 1.3
    },
    "type": "Feature"
   },
@@ -7626,7 +7626,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.100000023841858
+    "temperature_2m": 1.1
    },
    "type": "Feature"
   },
@@ -7661,7 +7661,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.200000047683716
+    "temperature_2m": -2.2
    },
    "type": "Feature"
   },
@@ -7696,7 +7696,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.100000023841858
+    "temperature_2m": 1.1
    },
    "type": "Feature"
   },
@@ -7731,7 +7731,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -8.699999809265137
+    "temperature_2m": -8.7
    },
    "type": "Feature"
   },
@@ -7766,7 +7766,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.2000000476837158
+    "temperature_2m": 1.2
    },
    "type": "Feature"
   },
@@ -7836,7 +7836,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.599999904632568
+    "temperature_2m": 7.6
    },
    "type": "Feature"
   },
@@ -7871,7 +7871,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.300000190734863
+    "temperature_2m": 8.3
    },
    "type": "Feature"
   },
@@ -7906,7 +7906,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -7.800000190734863
+    "temperature_2m": -7.8
    },
    "type": "Feature"
   },
@@ -7941,7 +7941,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.700000047683716
+    "temperature_2m": 2.7
    },
    "type": "Feature"
   },
@@ -7976,7 +7976,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.399999976158142
+    "temperature_2m": 1.4
    },
    "type": "Feature"
   },
@@ -8011,7 +8011,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.200000047683716
+    "temperature_2m": -3.2
    },
    "type": "Feature"
   },
@@ -8046,7 +8046,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -8081,7 +8081,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.30000001192092896
+    "temperature_2m": -0.3
    },
    "type": "Feature"
   },
@@ -8116,7 +8116,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -6.800000190734863
+    "temperature_2m": -6.8
    },
    "type": "Feature"
   },
@@ -8151,7 +8151,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.699999988079071
+    "temperature_2m": 0.7
    },
    "type": "Feature"
   },
@@ -8186,7 +8186,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.2999999523162842
+    "temperature_2m": 1.3
    },
    "type": "Feature"
   },
@@ -8256,7 +8256,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -4.199999809265137
+    "temperature_2m": -4.2
    },
    "type": "Feature"
   },
@@ -8291,7 +8291,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.099999904632568
+    "temperature_2m": 5.1
    },
    "type": "Feature"
   },
@@ -8326,7 +8326,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.699999809265137
+    "temperature_2m": 5.7
    },
    "type": "Feature"
   },
@@ -8361,7 +8361,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.700000047683716
+    "temperature_2m": -3.7
    },
    "type": "Feature"
   },
@@ -8396,7 +8396,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2999999523162842
+    "temperature_2m": -1.3
    },
    "type": "Feature"
   },
@@ -8431,7 +8431,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.600000023841858
+    "temperature_2m": 1.6
    },
    "type": "Feature"
   },
@@ -8466,7 +8466,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.800000011920929
+    "temperature_2m": -0.8
    },
    "type": "Feature"
   },
@@ -8501,7 +8501,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.699999809265137
+    "temperature_2m": 10.7
    },
    "type": "Feature"
   },
@@ -8571,7 +8571,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.0999999046325684
+    "temperature_2m": -3.1
    },
    "type": "Feature"
   },
@@ -8606,7 +8606,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.899999976158142
+    "temperature_2m": -1.9
    },
    "type": "Feature"
   },
@@ -8641,7 +8641,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.7000000476837158
+    "temperature_2m": 1.7
    },
    "type": "Feature"
   },
@@ -8711,7 +8711,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.100000023841858
+    "temperature_2m": 1.1
    },
    "type": "Feature"
   },
@@ -8746,7 +8746,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.5999999046325684
+    "temperature_2m": 2.6
    },
    "type": "Feature"
   },
@@ -8781,7 +8781,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.599999904632568
+    "temperature_2m": 4.6
    },
    "type": "Feature"
   },
@@ -8816,7 +8816,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.7999999523162842
+    "temperature_2m": 1.8
    },
    "type": "Feature"
   },
@@ -8851,7 +8851,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 13.399999618530273
+    "temperature_2m": 13.4
    },
    "type": "Feature"
   },
@@ -8886,7 +8886,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.699999988079071
+    "temperature_2m": -0.7
    },
    "type": "Feature"
   },
@@ -8921,7 +8921,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.699999809265137
+    "temperature_2m": 5.7
    },
    "type": "Feature"
   },
@@ -8956,7 +8956,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },
@@ -8991,7 +8991,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.099999904632568
+    "temperature_2m": 5.1
    },
    "type": "Feature"
   },
@@ -9026,7 +9026,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.9000000953674316
+    "temperature_2m": -3.9
    },
    "type": "Feature"
   },
@@ -9061,7 +9061,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.800000190734863
+    "temperature_2m": 10.8
    },
    "type": "Feature"
   },
@@ -9096,7 +9096,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.399999976158142
+    "temperature_2m": 1.4
    },
    "type": "Feature"
   },
@@ -9131,7 +9131,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.200000047683716
+    "temperature_2m": 2.2
    },
    "type": "Feature"
   },
@@ -9166,7 +9166,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.700000047683716
+    "temperature_2m": -2.7
    },
    "type": "Feature"
   },
@@ -9201,7 +9201,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.600000023841858
+    "temperature_2m": -1.6
    },
    "type": "Feature"
   },
@@ -9236,7 +9236,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.800000190734863
+    "temperature_2m": 4.8
    },
    "type": "Feature"
   },
@@ -9271,7 +9271,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.900000095367432
+    "temperature_2m": 6.9
    },
    "type": "Feature"
   },
@@ -9306,7 +9306,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -9376,7 +9376,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.599999904632568
+    "temperature_2m": 5.6
    },
    "type": "Feature"
   },
@@ -9411,7 +9411,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.0999999046325684
+    "temperature_2m": 2.1
    },
    "type": "Feature"
   },
@@ -9446,7 +9446,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.199999809265137
+    "temperature_2m": 6.2
    },
    "type": "Feature"
   },
@@ -9551,7 +9551,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.599999904632568
+    "temperature_2m": 5.6
    },
    "type": "Feature"
   },
@@ -9586,7 +9586,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.399999618530273
+    "temperature_2m": 8.4
    },
    "type": "Feature"
   },
@@ -9621,7 +9621,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.200000047683716
+    "temperature_2m": 3.2
    },
    "type": "Feature"
   },
@@ -9656,7 +9656,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.20000000298023224
+    "temperature_2m": 0.2
    },
    "type": "Feature"
   },
@@ -9691,7 +9691,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.599999904632568
+    "temperature_2m": 5.6
    },
    "type": "Feature"
   },
@@ -9761,7 +9761,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.8999999761581421
+    "temperature_2m": 0.9
    },
    "type": "Feature"
   },
@@ -9831,7 +9831,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.2999999523162842
+    "temperature_2m": 1.3
    },
    "type": "Feature"
   },
@@ -9866,7 +9866,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.100000381469727
+    "temperature_2m": 8.1
    },
    "type": "Feature"
   },
@@ -9901,7 +9901,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -7.199999809265137
+    "temperature_2m": -7.2
    },
    "type": "Feature"
   },
@@ -9936,7 +9936,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.799999952316284
+    "temperature_2m": 3.8
    },
    "type": "Feature"
   },
@@ -10006,7 +10006,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.0999999046325684
+    "temperature_2m": -2.1
    },
    "type": "Feature"
   },
@@ -10041,7 +10041,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.399999618530273
+    "temperature_2m": 9.4
    },
    "type": "Feature"
   },
@@ -10076,7 +10076,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -10111,7 +10111,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.699999988079071
+    "temperature_2m": -0.7
    },
    "type": "Feature"
   },
@@ -10181,7 +10181,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -5.699999809265137
+    "temperature_2m": -5.7
    },
    "type": "Feature"
   },
@@ -10216,7 +10216,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.800000011920929
+    "temperature_2m": -0.8
    },
    "type": "Feature"
   },
@@ -10251,7 +10251,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 11.100000381469727
+    "temperature_2m": 11.1
    },
    "type": "Feature"
   },
@@ -10321,7 +10321,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 11.199999809265137
+    "temperature_2m": 11.2
    },
    "type": "Feature"
   },
@@ -10356,7 +10356,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.600000023841858
+    "temperature_2m": 1.6
    },
    "type": "Feature"
   },
@@ -10426,7 +10426,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.200000047683716
+    "temperature_2m": 2.2
    },
    "type": "Feature"
   },
@@ -10461,7 +10461,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -9.199999809265137
+    "temperature_2m": -9.2
    },
    "type": "Feature"
   },
@@ -10496,7 +10496,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.8999999761581421
+    "temperature_2m": -0.9
    },
    "type": "Feature"
   },
@@ -10531,7 +10531,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.9000000953674316
+    "temperature_2m": 2.9
    },
    "type": "Feature"
   },
@@ -10566,7 +10566,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.799999952316284
+    "temperature_2m": -3.8
    },
    "type": "Feature"
   },
@@ -10601,7 +10601,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -4.699999809265137
+    "temperature_2m": -4.7
    },
    "type": "Feature"
   },
@@ -10636,7 +10636,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.799999952316284
+    "temperature_2m": 3.8
    },
    "type": "Feature"
   },
@@ -10671,7 +10671,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2000000476837158
+    "temperature_2m": -1.2
    },
    "type": "Feature"
   },
@@ -10741,7 +10741,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.399999976158142
+    "temperature_2m": -1.4
    },
    "type": "Feature"
   },
@@ -10776,7 +10776,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.300000190734863
+    "temperature_2m": 6.3
    },
    "type": "Feature"
   },
@@ -10811,7 +10811,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.4000000059604645
+    "temperature_2m": -0.4
    },
    "type": "Feature"
   },
@@ -10846,7 +10846,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.699999809265137
+    "temperature_2m": 6.7
    },
    "type": "Feature"
   },
@@ -10881,7 +10881,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.600000381469727
+    "temperature_2m": 9.6
    },
    "type": "Feature"
   },
@@ -10916,7 +10916,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.200000047683716
+    "temperature_2m": 2.2
    },
    "type": "Feature"
   },
@@ -10951,7 +10951,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.5999999046325684
+    "temperature_2m": -3.6
    },
    "type": "Feature"
   },
@@ -11021,7 +11021,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.899999976158142
+    "temperature_2m": 1.9
    },
    "type": "Feature"
   },
@@ -11056,7 +11056,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.400000095367432
+    "temperature_2m": 6.4
    },
    "type": "Feature"
   },
@@ -11091,7 +11091,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.299999952316284
+    "temperature_2m": 3.3
    },
    "type": "Feature"
   },
@@ -11126,7 +11126,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.699999809265137
+    "temperature_2m": 4.7
    },
    "type": "Feature"
   },
@@ -11161,7 +11161,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.20000000298023224
+    "temperature_2m": -0.2
    },
    "type": "Feature"
   },
@@ -11231,7 +11231,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.4000000059604645
+    "temperature_2m": -0.4
    },
    "type": "Feature"
   },
@@ -11266,7 +11266,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.4000000059604645
+    "temperature_2m": 0.4
    },
    "type": "Feature"
   },
@@ -11336,7 +11336,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -5.900000095367432
+    "temperature_2m": -5.9
    },
    "type": "Feature"
   },
@@ -11371,7 +11371,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.4000000059604645
+    "temperature_2m": -0.4
    },
    "type": "Feature"
   },
@@ -11441,7 +11441,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.799999952316284
+    "temperature_2m": -2.8
    },
    "type": "Feature"
   },
@@ -11476,7 +11476,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.400000095367432
+    "temperature_2m": 5.4
    },
    "type": "Feature"
   },
@@ -11546,7 +11546,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 16.600000381469727
+    "temperature_2m": 16.6
    },
    "type": "Feature"
   },
@@ -11581,7 +11581,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.599999904632568
+    "temperature_2m": 6.6
    },
    "type": "Feature"
   },
@@ -11616,7 +11616,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2000000476837158
+    "temperature_2m": -1.2
    },
    "type": "Feature"
   },
@@ -11651,7 +11651,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.900000095367432
+    "temperature_2m": 5.9
    },
    "type": "Feature"
   },
@@ -11686,7 +11686,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.799999952316284
+    "temperature_2m": 3.8
    },
    "type": "Feature"
   },
@@ -11721,7 +11721,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.399999976158142
+    "temperature_2m": -1.4
    },
    "type": "Feature"
   },
@@ -11791,7 +11791,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.899999976158142
+    "temperature_2m": -1.9
    },
    "type": "Feature"
   },
@@ -11826,7 +11826,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -13.300000190734863
+    "temperature_2m": -13.3
    },
    "type": "Feature"
   },
@@ -11896,7 +11896,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.100000023841858
+    "temperature_2m": -1.1
    },
    "type": "Feature"
   },
@@ -11931,7 +11931,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.399999618530273
+    "temperature_2m": 9.4
    },
    "type": "Feature"
   },
@@ -11966,7 +11966,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2000000476837158
+    "temperature_2m": -1.2
    },
    "type": "Feature"
   },
@@ -12001,7 +12001,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.9000000953674316
+    "temperature_2m": -3.9
    },
    "type": "Feature"
   },
@@ -12036,7 +12036,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.699999809265137
+    "temperature_2m": 9.7
    },
    "type": "Feature"
   },
@@ -12071,7 +12071,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.4000000953674316
+    "temperature_2m": -3.4
    },
    "type": "Feature"
   },
@@ -12141,7 +12141,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.199999809265137
+    "temperature_2m": 9.2
    },
    "type": "Feature"
   },
@@ -12176,7 +12176,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.5999999046325684
+    "temperature_2m": 2.6
    },
    "type": "Feature"
   },
@@ -12211,7 +12211,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.600000023841858
+    "temperature_2m": 1.6
    },
    "type": "Feature"
   },
@@ -12281,7 +12281,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.199999809265137
+    "temperature_2m": 6.2
    },
    "type": "Feature"
   },
@@ -12351,7 +12351,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.099999904632568
+    "temperature_2m": 5.1
    },
    "type": "Feature"
   },
@@ -12386,7 +12386,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -12421,7 +12421,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 13.699999809265137
+    "temperature_2m": 13.7
    },
    "type": "Feature"
   },
@@ -12456,7 +12456,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.30000001192092896
+    "temperature_2m": 0.3
    },
    "type": "Feature"
   },
@@ -12491,7 +12491,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.5999999046325684
+    "temperature_2m": -2.6
    },
    "type": "Feature"
   },
@@ -12526,7 +12526,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.699999809265137
+    "temperature_2m": 5.7
    },
    "type": "Feature"
   },
@@ -12596,7 +12596,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.4000000953674316
+    "temperature_2m": 3.4
    },
    "type": "Feature"
   },
@@ -12631,7 +12631,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.700000047683716
+    "temperature_2m": 2.7
    },
    "type": "Feature"
   },
@@ -12666,7 +12666,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.800000190734863
+    "temperature_2m": 7.8
    },
    "type": "Feature"
   },
@@ -12701,7 +12701,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2999999523162842
+    "temperature_2m": -1.3
    },
    "type": "Feature"
   },
@@ -12771,7 +12771,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -10.800000190734863
+    "temperature_2m": -10.8
    },
    "type": "Feature"
   },
@@ -12841,7 +12841,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 9.699999809265137
+    "temperature_2m": 9.7
    },
    "type": "Feature"
   },
@@ -12876,7 +12876,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.399999976158142
+    "temperature_2m": -1.4
    },
    "type": "Feature"
   },
@@ -12946,7 +12946,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -4.099999904632568
+    "temperature_2m": -4.1
    },
    "type": "Feature"
   },
@@ -12981,7 +12981,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -13016,7 +13016,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.9000000953674316
+    "temperature_2m": 2.9
    },
    "type": "Feature"
   },
@@ -13051,7 +13051,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -3.9000000953674316
+    "temperature_2m": -3.9
    },
    "type": "Feature"
   },
@@ -13086,7 +13086,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.300000190734863
+    "temperature_2m": 5.3
    },
    "type": "Feature"
   },
@@ -13121,7 +13121,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 3.299999952316284
+    "temperature_2m": 3.3
    },
    "type": "Feature"
   },
@@ -13156,7 +13156,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.800000190734863
+    "temperature_2m": 5.8
    },
    "type": "Feature"
   },
@@ -13191,7 +13191,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -1.2000000476837158
+    "temperature_2m": -1.2
    },
    "type": "Feature"
   },
@@ -13226,7 +13226,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 10.699999809265137
+    "temperature_2m": 10.7
    },
    "type": "Feature"
   },
@@ -13296,7 +13296,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.399999976158142
+    "temperature_2m": 1.4
    },
    "type": "Feature"
   },
@@ -13331,7 +13331,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.6000000238418579
+    "temperature_2m": -0.6
    },
    "type": "Feature"
   },
@@ -13366,7 +13366,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.800000011920929
+    "temperature_2m": 0.8
    },
    "type": "Feature"
   },
@@ -13401,7 +13401,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.300000190734863
+    "temperature_2m": 6.3
    },
    "type": "Feature"
   },
@@ -13436,7 +13436,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.699999988079071
+    "temperature_2m": 0.7
    },
    "type": "Feature"
   },
@@ -13471,7 +13471,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 7.400000095367432
+    "temperature_2m": 7.4
    },
    "type": "Feature"
   },
@@ -13506,7 +13506,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.900000095367432
+    "temperature_2m": 4.9
    },
    "type": "Feature"
   },
@@ -13541,7 +13541,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.699999809265137
+    "temperature_2m": 8.7
    },
    "type": "Feature"
   },
@@ -13576,7 +13576,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 6.099999904632568
+    "temperature_2m": 6.1
    },
    "type": "Feature"
   },
@@ -13611,7 +13611,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 1.7000000476837158
+    "temperature_2m": 1.7
    },
    "type": "Feature"
   },
@@ -13716,7 +13716,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 5.900000095367432
+    "temperature_2m": 5.9
    },
    "type": "Feature"
   },
@@ -13751,7 +13751,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },
@@ -13786,7 +13786,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 4.800000190734863
+    "temperature_2m": 4.8
    },
    "type": "Feature"
   },
@@ -13821,7 +13821,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -0.4000000059604645
+    "temperature_2m": -0.4
    },
    "type": "Feature"
   },
@@ -13856,7 +13856,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 0.10000000149011612
+    "temperature_2m": 0.1
    },
    "type": "Feature"
   },
@@ -13891,7 +13891,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": -2.700000047683716
+    "temperature_2m": -2.7
    },
    "type": "Feature"
   },
@@ -13926,7 +13926,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 8.800000190734863
+    "temperature_2m": 8.8
    },
    "type": "Feature"
   },
@@ -13961,7 +13961,7 @@
    "properties": {
     "_extent": 4096,
     "_layer": "weather_grid_hourly",
-    "temperature_2m": 2.799999952316284
+    "temperature_2m": 2.8
    },
    "type": "Feature"
   },

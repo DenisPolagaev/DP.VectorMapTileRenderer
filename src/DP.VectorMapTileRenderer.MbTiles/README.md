@@ -30,7 +30,7 @@ var bytes = await source.GetTileBytesAsync(x, y, zoom);
 - `metadata` (format, min/max zoom, bounds, center) exposed as `Metadata`.
 - `HasTileIndex` reports whether the archive has the standard tile index.
 - Overzoom past `metadata.maxzoom`.
-- Vector decoding via `VectorTileReader` (MVT or MLT).
+- Vector decoding via `VectorTileReader` (MapLibre Tile).
 - Read-only, pooled SQLite connections; safe for concurrent reads.
 
 ## Large files

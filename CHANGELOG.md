@@ -4,6 +4,17 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [2.0.0] - 2026-11-05
+
+### Removed
+
+- **Mapbox Vector Tile (MVT) decoder** (`Mvt.MvtTileReader`), `VectorTileEncoding` and
+  `VectorTileReader.Detect`. The library reads MapLibre Tile (MLT v1) only: there is no
+  legacy path and no format auto-detection. `PmtilesCodec.IsVector` now reports `true` for
+  `mlt` only, so an archive that declares `mvt` yields no vector tile.
+- `FileVectorTileSource`/`MbTilesSource` no longer take an `encoding` argument, and MBTiles
+  `metadata.format` no longer selects a decoder.
+
 ## [1.0.0] - 2026-11-05
 
 ### Added

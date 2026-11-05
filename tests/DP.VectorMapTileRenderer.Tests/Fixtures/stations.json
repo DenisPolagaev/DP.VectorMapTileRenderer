@@ -12,7 +12,7 @@
     "_extent": 4096,
     "_layer": "weather_stations_mvt",
     "country": "RU",
-    "gust": 0.0,
+    "gust": 0,
     "name": "station-0",
     "value": 0.0
    },
@@ -98,7 +98,7 @@
     "_extent": 4096,
     "_layer": "weather_stations_mvt",
     "country": "BY",
-    "gust": 5.0,
+    "gust": 5,
     "name": "station-1",
     "value": 7.5
    },
@@ -184,7 +184,7 @@
     "_extent": 4096,
     "_layer": "weather_stations_mvt",
     "country": "RU",
-    "gust": 10.0,
+    "gust": 10,
     "name": "station-2",
     "value": 15.0
    },

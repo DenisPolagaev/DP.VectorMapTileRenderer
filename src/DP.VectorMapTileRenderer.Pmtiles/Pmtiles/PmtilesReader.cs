@@ -3,7 +3,7 @@ namespace DP.VectorMapTileRenderer.Pmtiles;
 /// <summary>A parsed PMTiles v3 archive: header plus the root directory.</summary>
 public sealed class PmtilesArchive
 {
-    internal PmtilesArchive(string key, PmtilesHeader header, IReadOnlyList<PmtilesEntry> root, string? etag = null)
+    public PmtilesArchive(string key, PmtilesHeader header, IReadOnlyList<PmtilesEntry> root, string? etag = null)
     {
         Key = key;
         Header = header;
