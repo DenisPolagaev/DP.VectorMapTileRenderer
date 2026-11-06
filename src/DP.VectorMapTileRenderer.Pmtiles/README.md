@@ -21,14 +21,14 @@ style.SetSourceProvider("weather", source);
 // raw tile bytes (raster or vector)
 var bytes = await source.GetTileBytesAsync(x, y, zoom);
 
-// decoded vector tile (MapLibre Tile)
+// decoded vector tile (MVT or MLT, selected by the archive header)
 var tile = await source.GetVectorTile(x, y, zoom);
 ```
 
 ## Features
 
 - PMTiles v3 header, root/leaf directories, Hilbert tile ids.
-- Vector tile type `mlt`; raster types `png`, `jpeg`, `webp`, `avif`.
+- Vector tile types `mvt` and `mlt`; raster types `png`, `jpeg`, `webp`, `avif`.
 - Compression: none, gzip, brotli, zstd.
 - Byte-range access through `IPmtilesRangeSource`:
   - `PmtilesFileRangeSource` — local files via `RandomAccess`, thread-safe;

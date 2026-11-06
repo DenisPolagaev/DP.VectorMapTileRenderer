@@ -2,7 +2,7 @@ namespace DP.VectorMapTileRenderer.Pmtiles;
 
 /// <summary>
 /// A tile source over a PMTiles v3 archive. Serves raw raster payloads through
-/// <see cref="ITileSource.GetTile"/> and decodes vector payloads (MapLibre Tile, per the archive
+/// <see cref="ITileSource.GetTile"/> and decodes vector payloads (MVT or MLT, per the archive
 /// header) through <see cref="IVectorTileSource.GetVectorTile"/>.
 /// </summary>
 public sealed class PmtilesTileSource : Sources.ITileSource, Sources.IVectorTileSource, IDisposable
@@ -89,7 +89,11 @@ public sealed class PmtilesTileSource : Sources.ITileSource, Sources.IVectorTile
             return null;
         }
 
-        var tile = VectorTileReader.Read(bytes);
+        var encoding = archive.Header.TileType == PmtilesTileType.Mlt
+            ? VectorTileEncoding.Mlt
+            : VectorTileEncoding.Mvt;
+
+        var tile = VectorTileReader.Read(bytes, encoding);
         return fetchZoom == zoom ? tile : TileOverzoom.Apply(tile, x, y, zoom, fetchZoom);
     }
 

@@ -12,7 +12,7 @@ public enum VectorGeometryType
 }
 
 /// <summary>
-/// One decoded tile: an ordered set of layers. The model is shared by MLT, GeoJSON and any
+/// One decoded tile: an ordered set of layers. The model is shared by MLT, MVT, GeoJSON and any
 /// custom source, so the style engine and renderer do not know the encoding.
 /// </summary>
 public sealed class VectorTile

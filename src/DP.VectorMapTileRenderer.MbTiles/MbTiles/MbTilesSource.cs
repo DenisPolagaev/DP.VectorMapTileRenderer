@@ -38,17 +38,19 @@ public sealed record MbTilesMetadata
 /// <summary>
 /// Reads tiles from an MBTiles (SQLite) archive. Supports both the classic <c>tiles</c> table and
 /// the normalized <c>map</c> + <c>images</c> schema. Gzipped <c>tile_data</c> is unwrapped and
-/// vector payloads are decoded with <see cref="VectorTileReader"/> (MapLibre Tile).
+/// vector payloads are decoded with <see cref="VectorTileReader"/> (MVT or MLT).
 /// </summary>
 public sealed class MbTilesSource : Sources.IVectorTileSource
 {
     private readonly string _connectionString;
     private readonly MbTilesTileRowOrder _rowOrder;
+    private readonly VectorTileEncoding? _forcedEncoding;
     private readonly MbTilesSchema _schema;
 
     public MbTilesSource(
         string path,
-        MbTilesTileRowOrder rowOrder = MbTilesTileRowOrder.Tms)
+        MbTilesTileRowOrder rowOrder = MbTilesTileRowOrder.Tms,
+        VectorTileEncoding? encoding = null)
     {
         if (!File.Exists(path))
         {
@@ -73,6 +75,7 @@ public sealed class MbTilesSource : Sources.IVectorTileSource
             MbTilesSchema.MapImages => DetectTileIndex("map"),
             _ => false
         };
+        _forcedEncoding = encoding ?? ParseFormat(Metadata.Format);
     }
 
     public string Path { get; }
@@ -128,7 +131,7 @@ public sealed class MbTilesSource : Sources.IVectorTileSource
             bytes = Sources.FileVectorTileSource.Decompress(bytes);
         }
 
-        var tile = VectorTileReader.Read(bytes);
+        var tile = VectorTileReader.Read(bytes, _forcedEncoding);
         return fetchZoom == zoom ? tile : TileOverzoom.Apply(tile, x, y, zoom, fetchZoom);
     }
 
@@ -308,6 +311,13 @@ public sealed class MbTilesSource : Sources.IVectorTileSource
             return new MbTilesMetadata();
         }
     }
+
+    private static VectorTileEncoding? ParseFormat(string? format) => format?.Trim().ToLowerInvariant() switch
+    {
+        "mlt" => VectorTileEncoding.Mlt,
+        "pbf" or "mvt" => VectorTileEncoding.Mvt,
+        _ => null
+    };
 
     private static int? ParseInt(string? value) =>
         int.TryParse(value, System.Globalization.NumberStyles.Integer,

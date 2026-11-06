@@ -70,11 +70,8 @@ public static class PmtilesCodec
             MaxLatE7: BinaryPrimitives.ReadInt32LittleEndian(bytes[114..]));
     }
 
-    /// <summary>
-    /// True for the only vector encoding this library reads: MapLibre Tile. An archive that
-    /// declares <c>mvt</c> yields no vector tile — there is no MVT decoder on purpose.
-    /// </summary>
-    public static bool IsVector(PmtilesTileType tileType) => tileType is PmtilesTileType.Mlt;
+    public static bool IsVector(PmtilesTileType tileType) =>
+        tileType is PmtilesTileType.Mvt or PmtilesTileType.Mlt;
 
     public static bool IsRaster(PmtilesTileType tileType) =>
         tileType is PmtilesTileType.Png or PmtilesTileType.Jpeg or PmtilesTileType.Webp or PmtilesTileType.Avif;

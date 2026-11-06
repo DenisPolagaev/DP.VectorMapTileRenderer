@@ -1,7 +1,7 @@
 # DP.VectorMapTileRenderer
 
-A .NET vector map tile **reader and renderer**: MapLibre Tile (MLT v1) decoding,
-PMTiles/MBTiles archives, GeoJSON, a MapLibre/Mapbox style engine, and a
+A .NET vector map tile **reader and renderer**: MapLibre Tile (MLT v1) and Mapbox Vector Tile
+(MVT 2.x) decoding, PMTiles/MBTiles archives, GeoJSON, a MapLibre/Mapbox style engine, and a
 SkiaSharp canvas that renders a slippy-map tile to an `SKBitmap`.
 
 The library is split into small packages so a project only references the formats it actually
@@ -33,8 +33,8 @@ library's style engine (expressions, sprite icons, road casings, text on paths).
 
 ## Features
 
-- **Vector tiles** — MapLibre Tile (MLT v1), gzip-aware, dependency-free decoder.
-- **Archives and documents** — PMTiles v3 (MLT/PNG/JPEG/WebP/AVIF, gzip/brotli/zstd),
+- **Vector tiles** — MLT v1 and MVT 2.x, gzip-aware, dependency-free decoders.
+- **Archives and documents** — PMTiles v3 (MVT/MLT/PNG/JPEG/WebP/AVIF, gzip/brotli/zstd),
   MBTiles (SQLite, `tiles` and `map`/`images` schemas), GeoJSON (WGS84, Web Mercator, tile-local).
 - **MapLibre style engine** — layers, sources, filters, zoom/property `stops`, and a broad subset of
   MapLibre expressions (`case`, `match`, `interpolate`, `step`, `get`, `has`, `coalesce`,
@@ -52,7 +52,7 @@ library's style engine (expressions, sprite icons, road casings, text on paths).
 
 | Package | Contents | External dependencies |
 | --- | --- | --- |
-| `DP.VectorMapTileRenderer` | model, MLT reader, style engine, file/raster sources, overzoom | **none** |
+| `DP.VectorMapTileRenderer` | model, MLT/MVT readers, style engine, file/raster sources, overzoom | **none** |
 | `DP.VectorMapTileRenderer.Skia` | `Renderer`, `SkiaCanvas`, sprite atlas, clipping/offsetting | `SkiaSharp` |
 | `DP.VectorMapTileRenderer.Pmtiles` | PMTiles v3 archive reader and tile source | `ZstdSharp.Port` |
 | `DP.VectorMapTileRenderer.MbTiles` | MBTiles (SQLite) tile source | `Microsoft.Data.Sqlite` |
@@ -98,7 +98,7 @@ Reading a tile without rendering:
 
 ```csharp
 var bytes = File.ReadAllBytes("tiles/0/0/0.mlt");
-var tile = VectorTileReader.Read(bytes); // MapLibre Tile
+var tile = VectorTileReader.Read(bytes); // MLT or MVT auto-detected
 
 // or through a source
 using var source = new FileVectorTileSource("tiles/0/0/0.mlt");
@@ -140,7 +140,8 @@ var asyncSource = await GeoJsonTileSource.CreateAsync("world.geojson");
 | Format | Reader | Notes |
 | --- | --- | --- |
 | MLT v1 | `Mlt.MltTileReader` | Columnar tiles; nullable columns, delta/RLE, dictionaries, topology. |
-| PMTiles v3 | `Pmtiles.PmtilesTileSource` | Range reads, MLT/raster, gzip/brotli/zstd, overzoom. |
+| MVT 2.x | `Mvt.MvtTileReader` | Protobuf, points/lines/polygons/multi-geometries. |
+| PMTiles v3 | `Pmtiles.PmtilesTileSource` | Range reads, MVT/MLT/raster, gzip/brotli/zstd, overzoom. |
 | MBTiles | `MbTiles.MbTilesSource` | `tiles` or `map`+`images`, TMS/Slippy, gzip, metadata, overzoom. |
 | GeoJSON | `GeoJson.GeoJsonTileSource` | WGS84/WebMercator/tile-local, clipping, STRtree extraction. |
 | Raster | `Sources.RasterTileSource` | PNG/JPEG/WebP decoded by SkiaSharp. |
@@ -188,23 +189,9 @@ dotnet build DP.VectorMapTileRenderer.slnx   # or reference the projects directl
 dotnet test tests/DP.VectorMapTileRenderer.Tests
 ```
 
-The test suite runs on every target framework and covers golden MLT tiles, PMTiles/MBTiles/
+The test suite runs on every target framework and covers golden MLT/MVT tiles, PMTiles/MBTiles/
 GeoJSON, style expressions, sprite icons, polygon holes, overzoom, large offsets and concurrent
 reads.
-
-## Publishing
-
-NuGet publishing uses **Trusted Publishing (OIDC)** — no long-lived API key.
-
-1. On nuget.org, create a Trusted Publishing policy:
-   - Repository Owner: `DenisPolagaev`
-   - Repository: `DP.VectorMapTileRenderer`
-   - Workflow File: `nuget.yml`
-   - Environment: leave empty (or add `environment: <name>` to the `publish` job and use the same name)
-2. Add the GitHub Actions secret `NUGET_USER` with your nuget.org **username (profile name)**, not email.
-3. Push a `v*` tag or run the `nuget` workflow manually with `publish=true`.
-
-The workflow requests a short-lived API key through `NuGet/login@v1` and pushes `.nupkg` + `.snupkg`.
 
 ## License
 
