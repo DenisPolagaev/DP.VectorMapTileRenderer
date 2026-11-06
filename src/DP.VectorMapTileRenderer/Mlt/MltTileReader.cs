@@ -10,8 +10,8 @@ public sealed class MltFormatException(string message) : Exception(message);
 /// Supported subset: frames with tag <c>0x01</c>; columns Id/LongId/Geometry/Bool/Int32/UInt32/
 /// Int64/UInt64/Float/Double/String (+ nullable variants); logical encodings None/Delta/Delta-rle/
 /// Componentwise-delta/Rle; physical FixedWidth/VarInt. SIMD-FastPFOR, FSST and tessellated
-/// geometry are rejected on purpose: the tile workers pin the encoder to the plain subset
-/// (see <c>workers/tiles/tile_format.py</c>), so a decoder never needs them.
+/// geometry are rejected on purpose: the worker encoder emits the plain subset
+/// (see <c>workers/tiles/mlt_encoder.py</c>), so a decoder never needs them.
 /// </remarks>
 public static class MltTileReader
 {
@@ -190,7 +190,7 @@ public static class MltTileReader
             ColumnType.OptId or ColumnType.OptLongId => ColumnData.ForIds(ReadIdColumn(ref cursor, metadata.Type)),
             ColumnType.Geometry => ColumnData.ForGeometry(ReadGeometryColumn(ref cursor)),
             ColumnType.SharedDict => throw new NotSupportedException(
-                "MLT shared dictionaries are disabled by the worker encoder (shared_dict=False)."),
+                "MLT shared dictionaries are not produced by the worker encoder."),
             _ => ColumnData.ForValues(ReadValueColumn(ref cursor, metadata.Type))
         };
 
@@ -212,13 +212,30 @@ public static class MltTileReader
     private static object?[] ReadValueColumn(ref MltCursor cursor, ColumnType type)
     {
         var nullable = IsNullable(type);
+        if (type is ColumnType.String or ColumnType.OptString)
+        {
+            // String columns are the only scalar columns that carry a stream count, and the
+            // count precedes the Present stream (spec: `hasStreamCount` → STRING, the count
+            // includes the nullability stream). Reading Present first would consume the
+            // count byte as a stream header.
+            var streamCount = cursor.ReadVarInt32();
+            bool[]? presentBits = null;
+            if (nullable)
+            {
+                presentBits = MltStreamDecoder.DecodeBooleans(MltStream.Read(ref cursor));
+                streamCount--;
+            }
+
+            var strings = ReadStringColumn(ref cursor, streamCount);
+            return presentBits is null ? strings : ExpandNulls(strings, presentBits);
+        }
+
         bool[]? present = null;
         if (nullable)
         {
             present = MltStreamDecoder.DecodeBooleans(MltStream.Read(ref cursor));
         }
 
-        var valueCount = present?.Count(value => value) ?? 0;
         object?[] values = type switch
         {
             ColumnType.Float or ColumnType.OptFloat => Wrap(MltStreamDecoder.DecodeFloats(MltStream.Read(ref cursor))),
@@ -228,17 +245,19 @@ public static class MltTileReader
             ColumnType.Int64 or ColumnType.OptInt64 => Wrap(MltStreamDecoder.DecodeIntegers(MltStream.Read(ref cursor), 8, signed: true)),
             ColumnType.UInt32 or ColumnType.OptUInt32 => Wrap(MltStreamDecoder.DecodeIntegers(MltStream.Read(ref cursor), 4, signed: false)),
             ColumnType.UInt64 or ColumnType.OptUInt64 => Wrap(MltStreamDecoder.DecodeIntegers(MltStream.Read(ref cursor), 8, signed: false)),
-            ColumnType.String or ColumnType.OptString => ReadStringColumn(ref cursor, valueCount),
             _ => throw new NotSupportedException($"MLT column type {type} is not supported.")
         };
 
         return present is null ? values : ExpandNulls(values, present);
     }
 
-    private static object?[] ReadStringColumn(ref MltCursor cursor, int _)
+    private static object?[] ReadStringColumn(ref MltCursor cursor, int streamCount)
     {
-        var streamCount = cursor.ReadVarInt32();
-        MltStream? present = null;
+        if (streamCount < 0)
+        {
+            throw new MltFormatException("MLT string column declares no data streams after its Present stream.");
+        }
+
         MltStream? lengths = null;
         MltStream? offsets = null;
         MltStream? data = null;
@@ -248,8 +267,7 @@ public static class MltTileReader
             switch (stream.Category, stream.Subtype)
             {
                 case (StreamCategory.Present, _):
-                    present = stream;
-                    break;
+                    throw new MltFormatException("MLT string column repeats its Present stream.");
                 case (StreamCategory.Length, _):
                     lengths = stream;
                     break;
@@ -302,7 +320,7 @@ public static class MltTileReader
             values[index] = dictionary[(int)codes[index]];
         }
 
-        return present is null ? values : ExpandNulls(values, MltStreamDecoder.DecodeBooleans(present));
+        return values;
     }
 
     private static GeometryColumn ReadGeometryColumn(ref MltCursor cursor)

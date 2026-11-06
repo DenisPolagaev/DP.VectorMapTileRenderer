@@ -1,0 +1,223 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       0,
+       3796
+      ],
+      [
+       102,
+       3796
+      ],
+      [
+       102,
+       3896
+      ],
+      [
+       0,
+       3896
+      ],
+      [
+       0,
+       3796
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "vegetation_cells_mvt",
+    "value": 0
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       205,
+       3796
+      ],
+      [
+       307,
+       3796
+      ],
+      [
+       307,
+       3896
+      ],
+      [
+       205,
+       3896
+      ],
+      [
+       205,
+       3796
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "vegetation_cells_mvt",
+    "confidence": 61,
+    "region_id": "RU-1",
+    "value": 0.25
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       410,
+       3796
+      ],
+      [
+       512,
+       3796
+      ],
+      [
+       512,
+       3896
+      ],
+      [
+       410,
+       3896
+      ],
+      [
+       410,
+       3796
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "vegetation_cells_mvt",
+    "confidence": 62,
+    "region_id": "RU-0",
+    "value": 0.5
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       614,
+       3796
+      ],
+      [
+       717,
+       3796
+      ],
+      [
+       717,
+       3896
+      ],
+      [
+       614,
+       3896
+      ],
+      [
+       614,
+       3796
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "vegetation_cells_mvt",
+    "confidence": 63,
+    "value": 0.75
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       819,
+       3796
+      ],
+      [
+       922,
+       3796
+      ],
+      [
+       922,
+       3896
+      ],
+      [
+       819,
+       3896
+      ],
+      [
+       819,
+       3796
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "vegetation_cells_mvt",
+    "region_id": "RU-0",
+    "value": 1
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       1024,
+       3796
+      ],
+      [
+       1126,
+       3796
+      ],
+      [
+       1126,
+       3896
+      ],
+      [
+       1024,
+       3896
+      ],
+      [
+       1024,
+       3796
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "_extent": 4096,
+    "_layer": "vegetation_cells_mvt",
+    "confidence": 65,
+    "region_id": "RU-1",
+    "value": 1.25
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

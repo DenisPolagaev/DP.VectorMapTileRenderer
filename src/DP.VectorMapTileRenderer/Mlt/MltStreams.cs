@@ -107,8 +107,8 @@ internal sealed class MltStream
         if (physical == PhysicalEncoding.FastPfor)
         {
             throw new NotSupportedException(
-                "MLT tile uses SIMD-FastPFOR. The workers pin the encoder to fsst=False, fastpfor=False; " +
-                "regenerate the archive with tiles.tile_format.");
+                "MLT tile uses SIMD-FastPFOR, which the worker encoder never writes; " +
+                "the tile is corrupt or was produced by another encoder.");
         }
 
         return new MltStream
@@ -198,10 +198,23 @@ internal static class MltStreamDecoder
     {
         var count = stream.NumValues;
         var byteCount = (count + 7) / 8;
-        var bitmap = stream.Logical == LogicalEncoding.Rle
-            ? DecodeByteRle(stream.Payload.Span, byteCount)
-            : stream.Payload.Span[..byteCount].ToArray();
+        if (stream.Logical == LogicalEncoding.Rle)
+        {
+            var bitmap = DecodeByteRle(stream.Payload.Span, byteCount);
+            return ExpandBitmap(bitmap, count);
+        }
 
+        if (stream.Payload.Length < byteCount)
+        {
+            throw new MltFormatException(
+                $"Boolean stream holds {stream.Payload.Length} bytes, needs {byteCount} for {count} values.");
+        }
+
+        return ExpandBitmap(stream.Payload.Span[..byteCount], count);
+    }
+
+    private static bool[] ExpandBitmap(ReadOnlySpan<byte> bitmap, int count)
+    {
         var result = new bool[count];
         for (var index = 0; index < count; index++)
         {
@@ -222,6 +235,11 @@ internal static class MltStreamDecoder
             if (header <= 0x7F)
             {
                 var runLength = header + 3;
+                if (position >= payload.Length)
+                {
+                    throw new MltFormatException("Byte-RLE payload ends inside a repeat run.");
+                }
+
                 var value = payload[position++];
                 var end = Math.Min(offset + runLength, byteCount);
                 values.AsSpan(offset, end - offset).Fill(value);
@@ -234,6 +252,12 @@ internal static class MltStreamDecoder
             {
                 values[offset++] = payload[position++];
             }
+        }
+
+        if (offset != byteCount)
+        {
+            throw new MltFormatException(
+                $"Byte-RLE payload covers {offset} of {byteCount} bytes.");
         }
 
         return values;
