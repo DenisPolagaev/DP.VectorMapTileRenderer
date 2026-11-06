@@ -19,6 +19,16 @@ public sealed class PmtilesTileSource : Sources.ITileSource, Sources.IVectorTile
     {
     }
 
+    /// <summary>
+    /// Reads an archive served over HTTP(S) through <see cref="PmtilesHttpRangeSource"/>. The client
+    /// is caller-owned (a named <c>IHttpClientFactory</c> client), so retry and timeout policy stay
+    /// outside the tile source.
+    /// </summary>
+    public PmtilesTileSource(HttpClient client, Uri uri)
+        : this(new PmtilesHttpRangeSource(client, uri))
+    {
+    }
+
     public PmtilesTileSource(IPmtilesRangeSource source, bool ownsSource = false)
     {
         _source = source;

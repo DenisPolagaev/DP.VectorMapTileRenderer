@@ -4,6 +4,32 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+
+- `PmtilesHttpRangeSource`: reads PMTiles v3 archives over HTTP(S) with `Range` requests. A partial
+  response must be `206` with a matching `Content-Range` (a `200` fails fast instead of downloading
+  the whole archive per slice), `416` reads as "no data", other statuses surface as
+  `HttpRequestException` with the status code. The origin's `ETag` and total length are captured;
+  the `HttpClient` stays caller-owned (timeouts, retries, connection pooling) and automatic
+  decompression must be disabled on it.
+- `PmtilesTileSource(HttpClient, Uri)` convenience constructor over `PmtilesHttpRangeSource`.
+- Golden fixtures `vegetation_cells` (nullable string + nullable numeric column) and
+  `mixed_geometry` (Polygon + LineString + MultiPoint + MultiPolygon in one layer), plus explicit
+  nullable-value and mixed-geometry assertions in `MltTileReaderTests`.
+
+### Fixed
+
+- `MltTileReader` could not read a **nullable string column**: the column's stream count precedes
+  the `Present` stream and includes it (`hasStreamCount` → STRING, same as `@maplibre/mlt`), but the
+  reader consumed `Present` first and then read the count as if it were a stream header. Every tile
+  with a partially-null string property (e.g. vegetation `region_id`, fire `satellite_id`) failed
+  with a misleading `SIMD-FastPFOR`/boolean-stream error. A null value in such a column is now
+  returned as `null`.
+- Boolean streams validate their payload length and byte-RLE coverage instead of throwing
+  `ArgumentOutOfRangeException` from a slice (a parse desync now reports an `MltFormatException`).
+
 ## [1.0.0] - 2026-11-05
 
 ### Added
