@@ -11,7 +11,7 @@ namespace DP.VectorMapTileRenderer.Pmtiles;
 /// <remarks>
 /// The origin must honour <c>Range</c> requests. A partial read is accepted only as <c>206</c> with
 /// a matching <c>Content-Range</c>; a <c>200</c> fails fast instead of silently turning every slice
-/// into a full-archive download (the same rule the portal's MinIO range reader follows, ADR 024).
+/// into a full-archive download (the same rule the portal's RustFS range reader follows, ADR 024).
 /// <para>
 /// The <see cref="HttpClient"/> belongs to the caller and is never disposed here, so timeouts,
 /// retries and connection pooling stay in one named client. Automatic decompression must be

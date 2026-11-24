@@ -1,6 +1,6 @@
 namespace DP.VectorMapTileRenderer.Pmtiles;
 
-/// <summary>Byte-range access to a PMTiles archive (local file, HTTP range request, MinIO, ...).</summary>
+/// <summary>Byte-range access to a PMTiles archive (local file, HTTP range request, RustFS, ...).</summary>
 public interface IPmtilesRangeSource
 {
     /// <summary>Stable identity used for diagnostics and archive caching.</summary>
